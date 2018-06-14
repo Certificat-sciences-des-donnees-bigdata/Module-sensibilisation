@@ -28,7 +28,7 @@ Néanmoins l'installation de Python 3 est requise pour la bonne exécution des t
 
 ## 4 Exploration Multidimensionnelle
 
-Le choix a été fait de mettre plus particulièrement l'accent sur des exemples d'application issus du monde industrielles (données physiques quantitatives) plutôt que des applications (données qualitatives) de type sondage,  marketing ou fouille de textes... Comme écrit plus haut, l'introduction à d'autres méthodes et d'autres exemples d'application sont à rechercher dans les ressources des autres niveaux (2 et 4) d'approfondissement.
+Le choix a été fait de mettre plus particulièrement l'accent sur des exemples d'application issus du monde industriel (données physiques quantitatives) plutôt que des applications (données qualitatives) de type sondage,  marketing ou fouille de textes... Comme écrit plus haut, l'introduction à d'autres méthodes et d'autres exemples d'application sont à rechercher dans les ressources des autres niveaux (2 et 4) d'approfondissement.
 
 
 ### 4.1 Documents de base à consulter en autonomie
