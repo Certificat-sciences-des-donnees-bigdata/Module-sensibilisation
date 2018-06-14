@@ -5,8 +5,8 @@ Les ressources pédagogiques proposent plusieurs niveaux de lecture ou d'utilisa
 
 1. Le premier niveau est constitué des documents de cours de base (format `.pdf`) ci-dessous présentant les 
 *grands principes* des méthodes ainsi que de nombreux exemples d'utilisation. 
-2. Ces documents pointent (liens hypertextes) vers des ressources de *deuxième niveau* utiles pour des approfondissements car intégrant les formulaton mathématiques des méthodes et algorithmes. Ces ressources sont celles du site collaboratif [`wikistat`](http://wikistat.fr/).
-3. Le troisième niveau, appliqué, est composé des tutoriels (calepins ou jupyter notebook) explicitant le traitement élémentaire de données "jouet", les exemples illustrant les documents de cours et d'autres exemples plus consistants sur des données réelles.
+2. Ces documents pointent (liens hypertextes) vers des ressources de *deuxième niveau* utiles pour des approfondissements car intégrant les formulatons mathématiques des méthodes et algorithmes. Ces ressources sont celles du site collaboratif [`wikistat`](http://wikistat.fr/).
+3. Le troisième niveau, appliqué, est composé des tutoriels (calepins ou jupyter notebooks) explicitant le traitement élémentaire de données "jouet", les exemples illustrant les documents de cours et d'autres exemples sur des données réelles.
 4. Un quatrième niveau est à rechercher avec d'autres exemples d'utilisation disponibles dans les dépôts: [github - wikistat](https://github.com/wikistat/).
 
 ## 1 Description statistique
@@ -40,7 +40,7 @@ Profiter du présenciel afin d'exécuter les calepins (*jupyer notebooks*) et po
 3. [Reconnaissance d'activité](https://github.com/Certificat-sciences-des-donnees-bigdata/Module-sensibilisation/Calepins/) à partir des enregistrements d'un smartphone. Première partie: exploration.
 4. [Segmentation d'image](https://github.com/Certificat-sciences-des-donnees-bigdata/Module-sensibilisation/Calepins/) et cartographie de la surface de Mars.
 
-D'autres exemples sont disponibles dans le dépôt [github - wikistat](https://github.com/wikistat/Exploration).
+D'autres exemples sont disponibles dans le dépôt [github - wikistat - Exploration](https://github.com/wikistat/Exploration).
 
 
 
@@ -56,5 +56,5 @@ D'autres exemples sont disponibles dans le dépôt [github - wikistat](https://g
 - [Adaptation statistique](https://github.com/Certificat-sciences-des-donnees-bigdata/Module-sensibilisation/Calepins/) et prévision de la concentration en ozone. Deuxième partie: apprentissage et prévision.
 - [Reconnaissance d'activité](https://github.com/Certificat-sciences-des-donnees-bigdata/Module-sensibilisation/Calepins/) à partir des enregistrements d'un smartphone. Deuxième partie: apprentissage et reconnaissance.
 
-D'autres exemples sont disponibles dans le dépôt [github - wikistat](https://github.com/wikistat/Apprentissage).
+D'autres exemples sont disponibles dans le dépôt [github - wikistat - Apprentissage](https://github.com/wikistat/Apprentissage).
 
