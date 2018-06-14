@@ -43,7 +43,7 @@ Profiter du présenciel pour exécuter les calepins (*jupyer notebooks*) et pose
 [**Télécharger**](https://github.com/Certificat-sciences-des-donnees-bigdata/Module-sensibilisation/archive/master.zip) l'ensemble de l'archive du dépôt ou *cloner* le dépôt si vous avez déjà un compte GiiHub.
 
 1. [Intro-ACP-AFD](https://github.com/Certificat-sciences-des-donnees-bigdata/Module-sensibilisation/blob/master/Calepins/CSdD-Intro-ACP-AFD-Python.ipynb)
-2. [Adaptation statistique](https://github.com/Certificat-sciences-des-donnees-bigdata/Module-sensibilisation/blob/master/Calepins/CSdD-Apprent-Ozone-Python.ipynb) et prévision de la concentration en ozone. Traiter la première partie: *Exploration*.
+2. [Adaptation statistique](https://github.com/Certificat-sciences-des-donnees-bigdata/Module-sensibilisation/blob/master/Calepins/CSdD-Pic-Ozone-Python.ipynb) et prévision de la concentration en ozone. Traiter la première partie: *Exploration*.
 3. [Reconnaissance d'activité](https://github.com/Certificat-sciences-des-donnees-bigdata/Module-sensibilisation/blob/master/Calepins/CSdD-ML4IoT-Har-Python.ipynb) à partir des enregistrements d'un smartphone. Traiter la première partie: *Exploration*.
 4. [Segmentation d'image](https://github.com/Certificat-sciences-des-donnees-bigdata/Module-sensibilisation/blob/master/Calepins/CSdD-Cluster-Mars-Python.ipynb) et cartographie de la surface de Mars.
 
@@ -55,12 +55,13 @@ D'autres exemples sont disponibles dans le dépôt [`github - wikistat - Explora
 ### 5.1 Documents de base à consulter en autonomie
 
 1. [Introduction](https://github.com/Certificat-sciences-des-donnees-bigdata/Module-sensibilisation/Documents/) 
-2. [Apprentissage et sélection de modèle](https://github.com/Certificat-sciences-des-donnees-bigdata/Module-sensibilisation/Documents/)
-3. [Classification supervisée binaire](https://github.com/Certificat-sciences-des-donnees-bigdata/Module-sensibilisation/Documents/)
+2. [Apprentissage et sélection de modèle](https://github.com/Certificat-sciences-des-donnees-bigdata/Module-sensibilisation/Documents/) en régression
+3. [Classification supervisée binaire](https://github.com/Certificat-sciences-des-donnees-bigdata/Module-sensibilisation/Documents/) et multi-classe
 
 ### 5.2 Tutoriels à approfondir lors du présenciel
 
-- [Adaptation statistique](https://github.com/Certificat-sciences-des-donnees-bigdata/Module-sensibilisation/blob/master/Calepins/CSdD-Apprent-Ozone-Python.ipynb) et prévision de la concentration en ozone. Deuxième partie: *Apprentissage et Prévision*.
+- [Classification supervisée](https://github.com/Certificat-sciences-des-donnees-bigdata/Module-sensibilisation/blob/master/Calepins/CSdD-Intro-Apprent-Python.ipynb) de données synthétiques dans **R**²
+- [Adaptation statistique](https://github.com/Certificat-sciences-des-donnees-bigdata/Module-sensibilisation/blob/master/Calepins/CSdD-Pic-Ozone-Python.ipynb) et prévision de la concentration en ozone. Deuxième partie: *Apprentissage et Prévision*.
 - [Reconnaissance d'activité](https://github.com/Certificat-sciences-des-donnees-bigdata/Module-sensibilisation/blob/master/Calepins/CSdD-ML4IoT-Har-Python.ipynb) à partir des enregistrements d'un smartphone. Deuxième partie: *Apprentissage et Reconnaissance*.
 
 D'autres exemples sont disponibles dans le dépôt [`github - wikistat - Apprentissage`](https://github.com/wikistat/Apprentissage).
