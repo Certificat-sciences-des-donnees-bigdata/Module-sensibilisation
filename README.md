@@ -9,12 +9,14 @@ Les ressources pédagogiques offrent plusieurs niveaux de lecture ou d'utilisati
 3. Le troisième niveau, appliqué, est composé des tutoriels (calepins ou jupyter notebooks) explicitant le traitement élémentaire de données "jouet", les exemples illustrant les documents de cours et d'autres exemples sur des données réelles. Ils servent de base de travail durant les phases de présenciel. 
 4. Un quatrième niveau est à rechercher avec d'autres exemples d'utilisation disponibles dans les dépôts: [`github - wikistat`](https://github.com/wikistat/).
 
-## 1 Description statistique
+## 1 Introduction à R
 
-## 2 Modélisation statistique
+## 2 Statistique élémentaire
+
+## 3 Modélisation statistique
 
 
-## 3 Introduction à Python
+## 4 Introduction à Python
 *Python* et ses librairies produisent moins de résultat utiles que R à l'interprétation statistique mais fournissent des codes généralement plus efficaces pour aborder le traitement de données massives.
 
 Des [tutoriels](https://github.com/wikistat/Intro-Python) proposent une introduction à Python et une sélection des commandes utiles au statisticien et / ou *data scientist*.  
@@ -26,17 +28,17 @@ Néanmoins l'installation de Python 3 est requise pour la bonne exécution des t
 **Installer** Pyhton 3.6 à partir de la distribution [Anaconda](https://www.anaconda.com/download/).
 
 
-## 4 Exploration Multidimensionnelle
+## 5 Exploration Multidimensionnelle
 
 Le choix a été fait de mettre plus particulièrement l'accent sur des exemples d'application issus du monde industriel (données physiques quantitatives) plutôt que des applications (données qualitatives) de type sondage,  marketing ou fouille de textes... Comme écrit plus haut, l'introduction à d'autres méthodes et d'autres exemples d'application sont à rechercher dans les ressources des autres niveaux (2 et 4) d'approfondissement.
 
 
-### 4.1 Documents de base à consulter en autonomie
+### 5.1 Documents de base à consulter en autonomie
 
 - [Introduction](https://github.com/Certificat-sciences-des-donnees-bigdata/Module-sensibilisation/Documents/csdmsIntro.pdf): De la statistique à la *Science des Données* en passant par la fouille de données (*Data Mining*).
 - [Exploration ](https://github.com/Certificat-sciences-des-donnees-bigdata/Module-sensibilisation/Documents/csdmsExplo.pdf) en grande dimension avec l'analyse en composantes Principales (ACP), l'analyse factorielle discriminante (AFD); classification non supervisée (*clustering*) avec *k-means*.
 
-### 4.2 Tutoriels à approfondir lors du présenciel
+### 5.2 Tutoriels à approfondir lors du présenciel
 Profiter du présenciel pour exécuter les calepins (*jupyer notebooks*) et surtout poser les questions relatives aucours et aux traitements présentés dans les différents tutoriels.
 
 [**Télécharger**](https://github.com/Certificat-sciences-des-donnees-bigdata/Module-sensibilisation/archive/master.zip) l'ensemble de l'archive du dépôt ou *cloner* le dépôt si vous avez déjà un compte GiiHub.
@@ -50,12 +52,12 @@ D'autres exemples sont disponibles dans le dépôt [`github - wikistat - Explora
 
 
 
-## 5 Principes de l'Apprentissage Statistique
-### 5.1 Document de base à consulter en autonomie
+## 6 Principes de l'Apprentissage Statistique
+### 6.1 Document de base à consulter en autonomie
 
 1. [Principes de l'Apprentissage Statistique](https://github.com/Certificat-sciences-des-donnees-bigdata/Module-sensibilisation/Documents/csdmsApprent) 
 
-### 5.2 Tutoriels à approfondir lors du présenciel
+### 6.2 Tutoriels à approfondir lors du présenciel
 
 - [Classification supervisée](https://github.com/Certificat-sciences-des-donnees-bigdata/Module-sensibilisation/blob/master/Calepins/CSdD-Intro-Apprent-Python.ipynb) de données synthétiques dans **R**²
 - [Adaptation statistique](https://github.com/Certificat-sciences-des-donnees-bigdata/Module-sensibilisation/blob/master/Calepins/CSdD-Pic-Ozone-Python.ipynb) et prévision de la concentration en ozone. Deuxième partie: *Apprentissage et Prévision*.
