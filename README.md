@@ -33,12 +33,11 @@ Le choix a été fait de mettre plus particulièrement l'accent sur des exemples
 
 ### 4.1 Documents de base à consulter en autonomie
 
-- [Introduction](https://github.com/Certificat-sciences-des-donnees-bigdata/Module-sensibilisation/Documents/): De la statistique à la *Science des Données* en passant par la fouille de données (*Data Mining*).
-- [Exploration ](https://github.com/Certificat-sciences-des-donnees-bigdata/Module-sensibilisation/Documents/) en grande dimension avec l'analyse en composantes Principales (ACP) et l'analyse factorielle discriminante (AFD).
-- [Classification non supervisée](https://github.com/Certificat-sciences-des-donnees-bigdata/Module-sensibilisation/Documents/) illustrée par l'algorithme *k-means*.
+- [Introduction](https://github.com/Certificat-sciences-des-donnees-bigdata/Module-sensibilisation/Documents/csdmsIntro.pdf): De la statistique à la *Science des Données* en passant par la fouille de données (*Data Mining*).
+- [Exploration ](https://github.com/Certificat-sciences-des-donnees-bigdata/Module-sensibilisation/Documents/csdmsExplo.pdf) en grande dimension avec l'analyse en composantes Principales (ACP), l'analyse factorielle discriminante (AFD); classification non supervisée (*clustering*) avec *k-means*.
 
 ### 4.2 Tutoriels à approfondir lors du présenciel
-Profiter du présenciel pour exécuter les calepins (*jupyer notebooks*) et poser les questions relatives aux exemples et traitements présentés dans les différents tutoriels.
+Profiter du présenciel pour exécuter les calepins (*jupyer notebooks*) et surtout poser les questions relatives aucours et aux traitements présentés dans les différents tutoriels.
 
 [**Télécharger**](https://github.com/Certificat-sciences-des-donnees-bigdata/Module-sensibilisation/archive/master.zip) l'ensemble de l'archive du dépôt ou *cloner* le dépôt si vous avez déjà un compte GiiHub.
 
@@ -52,11 +51,9 @@ D'autres exemples sont disponibles dans le dépôt [`github - wikistat - Explora
 
 
 ## 5 Principes de l'Apprentissage Statistique
-### 5.1 Documents de base à consulter en autonomie
+### 5.1 Document de base à consulter en autonomie
 
-1. [Introduction](https://github.com/Certificat-sciences-des-donnees-bigdata/Module-sensibilisation/Documents/) 
-2. [Apprentissage et sélection de modèle](https://github.com/Certificat-sciences-des-donnees-bigdata/Module-sensibilisation/Documents/) en régression
-3. [Classification supervisée binaire](https://github.com/Certificat-sciences-des-donnees-bigdata/Module-sensibilisation/Documents/) et multi-classe
+1. [Principes de l'Apprentissage Statistique](https://github.com/Certificat-sciences-des-donnees-bigdata/Module-sensibilisation/Documents/csdmsApprent) 
 
 ### 5.2 Tutoriels à approfondir lors du présenciel
 
