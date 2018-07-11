@@ -35,8 +35,8 @@ Le choix a été fait de mettre plus particulièrement l'accent sur des exemples
 
 ### 5.1 Documents de base à consulter en autonomie
 
-- [Introduction](https://github.com/Certificat-sciences-des-donnees-bigdata/Module-sensibilisation/Documents/csdmsIntro.pdf): De la statistique à la *Science des Données* en passant par la fouille de données (*Data Mining*).
-- [Exploration ](https://github.com/Certificat-sciences-des-donnees-bigdata/Module-sensibilisation/Documents/csdmsExplo.pdf) en grande dimension avec l'analyse en composantes Principales (ACP), l'analyse factorielle discriminante (AFD); classification non supervisée (*clustering*) avec *k-means*.
+- [Introduction](https://github.com/Certificat-sciences-des-donnees-bigdata/Module-sensibilisation/blob/master/Documents/csdmsIntro.pdf): De la statistique à la *Science des Données* en passant par la fouille de données (*Data Mining*).
+- [Exploration ](https://github.com/Certificat-sciences-des-donnees-bigdata/Module-sensibilisation/blob/master/Documents/csdmsExplo.pdf) en grande dimension avec l'analyse en composantes Principales (ACP), l'analyse factorielle discriminante (AFD); classification non supervisée (*clustering*) avec *k-means*.
 
 ### 5.2 Tutoriels à approfondir lors du présenciel
 Profiter du présenciel pour exécuter les calepins (*jupyer notebooks*) et surtout poser les questions relatives aucours et aux traitements présentés dans les différents tutoriels.
@@ -55,7 +55,7 @@ D'autres exemples sont disponibles dans le dépôt [`github - wikistat - Explora
 ## 6 Principes de l'Apprentissage Statistique
 ### 6.1 Document de base à consulter en autonomie
 
-1. [Principes de l'Apprentissage Statistique](https://github.com/Certificat-sciences-des-donnees-bigdata/Module-sensibilisation/Documents/csdmsApprent) 
+1. [Principes de l'Apprentissage Statistique](https://github.com/Certificat-sciences-des-donnees-bigdata/Module-sensibilisation/blob/master/Documents/csdmsApprent) 
 
 ### 6.2 Tutoriels à approfondir lors du présenciel
 
