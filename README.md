@@ -9,6 +9,10 @@ Les ressources pédagogiques offrent plusieurs niveaux de lecture ou d'utilisati
 3. Le troisième niveau, appliqué, est composé des tutoriels (calepins ou jupyter notebooks) explicitant le traitement élémentaire de données "jouet", les exemples illustrant les documents de cours et d'autres exemples sur des données réelles. Ils servent de base de travail durant les phases de présenciel. 
 4. Un quatrième niveau est à rechercher avec d'autres exemples d'utilisation disponibles dans les dépôts: [`github - wikistat`](https://github.com/wikistat/).
 
+**Attention**  l'installation de Python 3 est requise pour la bonne exécution des tutoriels. Le plus simple est de l'installer à partir de la distribution [Anaconda](https://www.anaconda.com/download/). R nécessite également l'installation du noyau [IRkernel](https://irkernel.github.io/installation/).
+
+Pour **exécuter les tutoriels**, il *suffit* de cloner ce dépôt, si vous avez un compte (gratuit) et les compétences nécessaires *GitHub*, ou encore, plus simplement, de [télécharger l'archive](https://github.com/Certificat-sciences-des-donnees-bigdata/Module-sensibilisation/archive/master.zip) puis de la dézipper. Lancer enfin *jupyter notebook* avant d'ouvrir les différents calepins (fichiers d'extension.ipynb) dans le navigateur par défaut qui exécute *jupyter*. L'exécution de chaque cellule d'un calepin est obtenue en cliquant sur le bouton `run`.
+
 ## 1 Introduction à R
 
 ## 2 Statistique élémentaire
@@ -23,10 +27,6 @@ Des [tutoriels](https://github.com/wikistat/Intro-Python) proposent une introduc
 
 Une connaissance experte de Python n'est pas indispensbale au suivi de ce module; ces tutoriels peuvent être sautés en première lecture. 
 
-Néanmoins l'installation de Python 3 est requise pour la bonne exécution des tutoriels.
-
-**Installer** Pyhton 3.6 à partir de la distribution [Anaconda](https://www.anaconda.com/download/).
-
 
 ## 5 Exploration Multidimensionnelle
 
@@ -39,9 +39,9 @@ Le choix a été fait de mettre plus particulièrement l'accent sur des exemples
 - [Exploration ](https://github.com/Certificat-sciences-des-donnees-bigdata/Module-sensibilisation/blob/master/Documents/csdmsExplo.pdf) en grande dimension avec l'analyse en composantes Principales (ACP), l'analyse factorielle discriminante (AFD); classification non supervisée (*clustering*) avec *k-means*.
 
 ### 5.2 Tutoriels à approfondir lors du présenciel
-Profiter du présenciel pour exécuter les calepins (*jupyer notebooks*) et surtout poser les questions relatives aucours et aux traitements présentés dans les différents tutoriels.
+Profiter du présenciel pour exécuter les calepins (*jupyer notebooks*) et **surtout poser les questions** relatives au cours et aux traitements présentés dans les différents tutoriels.
 
-[**Télécharger**](https://github.com/Certificat-sciences-des-donnees-bigdata/Module-sensibilisation/archive/master.zip) l'ensemble de l'archive du dépôt ou *cloner* le dépôt si vous avez déjà un compte GiiHub.
+[**Télécharger**](https://github.com/Certificat-sciences-des-donnees-bigdata/Module-sensibilisation/archive/master.zip) l'ensemble de l'archive du dépôt ou *cloner* le dépôt si vous avez déjà un compte GitHub pour exécuter les tutoriels.
 
 1. [Intro-ACP-AFD](https://github.com/Certificat-sciences-des-donnees-bigdata/Module-sensibilisation/blob/master/Calepins/CSdD-Intro-ACP-AFD-Python.ipynb)
 2. [Adaptation statistique](https://github.com/Certificat-sciences-des-donnees-bigdata/Module-sensibilisation/blob/master/Calepins/CSdD-Pic-Ozone-Python.ipynb) et prévision de la concentration en ozone. Traiter la première partie: *Exploration*.
@@ -55,7 +55,7 @@ D'autres exemples sont disponibles dans le dépôt [`github - wikistat - Explora
 ## 6 Principes de l'Apprentissage Statistique
 ### 6.1 Document de base à consulter en autonomie
 
-1. [Principes de l'Apprentissage Statistique](https://github.com/Certificat-sciences-des-donnees-bigdata/Module-sensibilisation/blob/master/Documents/csdmsApprent) 
+- [Principes de l'Apprentissage Statistique](https://github.com/Certificat-sciences-des-donnees-bigdata/Module-sensibilisation/blob/master/Documents/csdmsApprent.pdf) 
 
 ### 6.2 Tutoriels à approfondir lors du présenciel
 
