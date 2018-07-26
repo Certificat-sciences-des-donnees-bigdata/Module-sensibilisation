@@ -7,17 +7,77 @@ Les ressources pédagogiques offrent plusieurs niveaux de lecture ou d'utilisati
 *grands principes* des méthodes ainsi que de nombreux exemples d'utilisation. Ils suffisent à une compréhension générale.
 2. Ces documents pointent (liens hypertextes) vers des ressources de *deuxième niveau* ou d'approfondissement car intégrant les formulatons mathématiques des méthodes et algorithmes. Ces ressources sont celles du site collaboratif [`wikistat`](http://wikistat.fr/).
 3. Le troisième niveau, appliqué, est composé des tutoriels (calepins ou jupyter notebooks) explicitant le traitement élémentaire de données "jouet", les exemples illustrant les documents de cours et d'autres exemples sur des données réelles. Ils servent de base de travail durant les phases de présenciel. 
-4. Un quatrième niveau est à rechercher avec d'autres exemples d'utilisation disponibles dans les dépôts: [`github - wikistat`](https://github.com/wikistat/).
+4. Un quatrième niveau est à rechercher avec d'autres exemples d'utilisation disponibles dans les dépôts: [`github-wikistat`](https://github.com/wikistat/).
 
 **Attention**  l'installation de Python 3 est requise pour la bonne exécution des tutoriels. Le plus simple est de l'installer à partir de la distribution [Anaconda](https://www.anaconda.com/download/). R nécessite également l'installation du noyau [IRkernel](https://irkernel.github.io/installation/).
 
 Pour **exécuter les tutoriels**, il *suffit* de cloner ce dépôt, si vous avez un compte (gratuit) et les compétences nécessaires *GitHub*, ou encore, plus simplement, de [télécharger l'archive](https://github.com/Certificat-sciences-des-donnees-bigdata/Module-sensibilisation/archive/master.zip) puis de la dézipper. Lancer enfin *jupyter notebook* avant d'ouvrir les différents calepins (fichiers d'extension.ipynb) dans le navigateur par défaut qui exécute *jupyter*. L'exécution de chaque cellule d'un calepin est obtenue en cliquant sur le bouton `run`.
 
 ## 1 Introduction à R
+Le langage de programmation R est un langage reconnu pour l’analyse statistique de données, massives ou non.  L’acquisition de compétences dans l’utilisation de R est aujourd’hui un atout professionnel pour ceux qui le maîtrisent.
 
-## 2 Statistique élémentaire
+### 1.1 Documents de base à consulter en autonomie
+- Cours introductif intitulé Logiciel R de [`wikistat.fr`](http://wikistat.fr/).
+- [*Shortcut reference card*](https://cran.r-project.org/doc/contrib/Short-refcard.pdf) de Tom Short.
+- [R pour les débutants](https://cran.r-project.org/doc/contrib/Paradis-rdebuts_fr.pdf) d’Emmanuel Paradis. 
+
+### 1.2 Travail personnel demandé 
+L’exercice qui vous est proposé vous permettra d’acquérir des compétences en langage R. Vous êtes invité à contacter vos enseignants (florent.bourgeois@ensiacet.fr et pascal.floquet@ensiacet.fr) pour vous aider dans la réalisation de ce travail. L’exercice porte sur la manipulation de variables aléatoires et leurs distributions statistiques, un des socles de l’analyse statistique de données.
+
+Soit X1 et X2 deux variables aléatoires indépendantes qui suivent une loi normale. Écrivez en langage R les 6 fonctions (p, d, q, r, e et v) `bigdata`, dans un même script R, qui permettent de calculer la fonction de répartition CDF (*Cumulative Distribution Function*), la fonction densité de probabilité PDF (*Probability Density Function*), les quartiles, la génération de nombres aléatoires, la moyenne et la variance des variables 
+
+Y = X1+X2 et Z = X1*X2. 
+
+Les dites fonctions produiront les graphes pertinents qui permettent de visualiser les résultats de chacune des 6 fonctions.
+
+## 2 Éléments d’analyse statistique de données
+
+Cette section vous permettra d’acquérir les notions élémentaires de l’analyse statistique de données. Elles sont la base des méthodes d’inférence et de modélisation mises en œuvre dans la suite.
+
+### 2.1. Documents de base à consulter en autonomie sur [`wikiwtat.fr`](http://wikistat.fr/)
+
+- [Statistique élémentaire : Introduction](http://wikistat.fr/pdf/st-l-Intro-statElem.pdf)
+- [Statistique descriptive unidimensionnelle](http://wikistat.fr/pdf/st-l-des-uni.pdf)
+- [Statistique descriptive bidimensionnelle](http://wikistat.fr/pdf/st-l-des-bi.pdf)
+- [Estimation statistique](http://wikistat.fr/pdf/st-l-inf-estim.pdf)
+- [Tests statistiques](http://wikistat.fr/pdf/st-l-inf-tests.pdf)
+
+### 2.2. Travail personnel demandé
+
+Le travail attendu est un travail personnel d’autoévaluation de votre maîtrise des concepts et méthodes d’analyse statistique étudiées dans les documents de base, en les appliquant au jeu de données du pic d’ozone de la ville de Rennes. Vous êtes invités à consulter le [tutoriel en R](https://github.com/wikistat/StatElem/blob/master/StatElem-R-Ozone.ipynb) sur lequel vous pourrez aussi récupérer le jeu de données. Vous trouverez ci-après, sans caractère limitatif, une liste de thèmes auxquels vous pouvez réfléchir en y apportant une ou plusieurs réponses basées sur les concepts étudiés dans cette section, comme par exemple:
+
+- Décrire (type de données, moyenne, variance, moments,...) et tracer la distribution statistique des variables;
+- Tester la normalité des variables;
+- Calculer l’incertitude de la moyenne et de l’écart-type des variables;
+- Analyser la corrélation entre 2 variables; 
+- Tester la nullité du coefficient de corrélation linéaire ;
+- ...
+
+Toutes ces études feront l’objet d’une restitution en groupe lors de la séance en présentiel et de discussions lors des séances hors présentiel (contactez alors les enseignants florent.bourgeois@ensiacet.fr et pascal.floquet@ensiacet.fr) ou en présentiel.
+
 
 ## 3 Modélisation statistique
+
+Cette section vous permettra d’acquérir et de mettre en œuvre 2 méthodes de régression couramment utilisées dans l’analyse de données massives : la régression linéaire multiple et la régression logistique.
+
+### 3.1. Documents de base à consulter en autonomie [`wikistat.fr`](http://wikistat.fr/)
+ 
+- [Introduction à la modélisation statistique](http://wikistat.fr/pdf/st-m-modlin-intro.pdf)
+- [Modèle gaussien: régression linéaire multiple](http://wikistat.fr/pdf/st-m-modlin-regsim.pdf)
+- [Modèle binomial ou régression logistique](http://wikistat.fr/pdf/st-m-modlin-reglog.pdf)
+ 
+### 3.2. Travail personnel demandé
+
+Le travail attendu est un travail personnel d’autoévaluation de votre maîtrise de la régression linéaire multiple et de la régression logistique, en les appliquant à la prédiction du pic d’ozone de la ville de Rennes.
+Vous trouverez ci-après, sans caractère limitatif, une liste de sujets auxquels vous êtes invité à réfléchir en y apportant une ou plusieurs réponses basées sur les concepts étudiés dans cette section: 
+
+- Calculer les paramètres des modèles de régression (linéaire multiple et logistique) liant la variable pic d’ozone aux autres variables explicatives;
+- Calculer l’intervalle de confiance de ces paramètres;
+- Tester la significativité des paramètres;
+- Examiner la qualité des modèles de régression, en ajustement et en prédiction;
+- Quelles sont les incertitudes associées à la prédiction ?;
+- Quel est le « bon » modèle à choisir : nombre de paramètres, valeurs des paramètres,... ?;
+- ...
 
 
 ## 4 Introduction à Python
@@ -63,5 +123,5 @@ D'autres exemples sont disponibles dans le dépôt [`github - wikistat - Explora
 - [Adaptation statistique](https://github.com/Certificat-sciences-des-donnees-bigdata/Module-sensibilisation/blob/master/Calepins/CSdD-Pic-Ozone-Python.ipynb) et prévision de la concentration en ozone. Deuxième partie: *Apprentissage et Prévision*.
 - [Reconnaissance d'activité](https://github.com/Certificat-sciences-des-donnees-bigdata/Module-sensibilisation/blob/master/Calepins/CSdD-ML4IoT-Har-Python.ipynb) à partir des enregistrements d'un smartphone. Deuxième partie: *Apprentissage et Reconnaissance*.
 
-D'autres exemples sont disponibles dans le dépôt [`github - wikistat - Apprentissage`](https://github.com/wikistat/Apprentissage).
+D'autres exemples sont disponibles dans le dépôt [`github-wikistat-Apprentissage`](https://github.com/wikistat/Apprentissage).
 
