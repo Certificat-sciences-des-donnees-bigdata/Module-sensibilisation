@@ -9,7 +9,11 @@ Les ressources pédagogiques offrent plusieurs niveaux de lecture ou d'utilisati
 3. Le troisième niveau, appliqué, est composé des tutoriels (calepins ou jupyter notebooks) explicitant le traitement élémentaire de données "jouet", les exemples illustrant les documents de cours et d'autres exemples sur des données réelles. Ils servent de base de travail durant les phases de présenciel. 
 4. Un quatrième niveau est à rechercher avec d'autres exemples d'utilisation disponibles dans les dépôts: [`github-wikistat`](https://github.com/wikistat/).
 
-**Attention**  l'installation de Python 3 est requise pour la bonne exécution des tutoriels. Le plus simple est de l'installer à partir de la distribution [Anaconda](https://www.anaconda.com/download/). R nécessite également l'installation du noyau [IRkernel](https://irkernel.github.io/installation/).
+**Attention** : logiciels à installer
+
+Pour les parties 1. Introduction à R, 2. Eléments d'analyse statistique de données et 3. Modélisation statistique, il faut installer le logiciel R. Il s'installe à partir du lien [R-project](https://www.r-project.org/) en choisissant la version qui correspond au système d’exploitation de la machine de l’utilisateur (Windows, ios, Linux). L’interface conseillée pour l’utilisation de R s’appelle [RStudio Desktop](http://www.rstudio.com/products/rstudio/download) en choisissant la version Open Source License.
+
+Pour les parties suivantes, l'installation de Python 3 est requise pour la bonne exécution des tutoriels. Le plus simple est de l'installer à partir de la distribution [Anaconda](https://www.anaconda.com/download/). R nécessite également l'installation du noyau [IRkernel](https://irkernel.github.io/installation/).
 
 Pour **exécuter les tutoriels**, il *suffit* de cloner ce dépôt, si vous avez un compte (gratuit) et les compétences nécessaires *GitHub*, ou encore, plus simplement, de [télécharger l'archive](https://github.com/Certificat-sciences-des-donnees-bigdata/Module-sensibilisation/archive/master.zip) puis de la dézipper. Lancer enfin *jupyter notebook* avant d'ouvrir les différents calepins (fichiers d'extension.ipynb) dans le navigateur par défaut qui exécute *jupyter*. L'exécution de chaque cellule d'un calepin est obtenue en cliquant sur le bouton `run`.
 
@@ -22,7 +26,7 @@ Le langage de programmation R est un langage reconnu pour l’analyse statistiqu
 - [R pour les débutants](https://cran.r-project.org/doc/contrib/Paradis-rdebuts_fr.pdf) d’Emmanuel Paradis. 
 
 ### 1.2 Travail personnel demandé 
-L’exercice qui vous est proposé vous permettra d’acquérir des compétences en langage R. Vous êtes invité à contacter vos enseignants (florent.bourgeois@ensiacet.fr et pascal.floquet@ensiacet.fr) pour vous aider dans la réalisation de ce travail. L’exercice porte sur la manipulation de variables aléatoires et leurs distributions statistiques, un des socles de l’analyse statistique de données.
+L’exercice qui vous est proposé vous permettra d’acquérir des compétences en langage R. Vous êtes invités à contacter vos enseignants (florent.bourgeois@ensiacet.fr et pascal.floquet@ensiacet.fr) pour vous aider dans la réalisation de ce travail. L’exercice porte sur la manipulation de variables aléatoires et leurs distributions statistiques, un des socles de l’analyse statistique de données.
 
 Soit X1 et X2 deux variables aléatoires indépendantes qui suivent une loi normale. Écrivez en langage R les 6 fonctions (p, d, q, r, e et v) `bigdata`, dans un même script R, qui permettent de calculer la fonction de répartition CDF (*Cumulative Distribution Function*), la fonction densité de probabilité PDF (*Probability Density Function*), les quartiles, la génération de nombres aléatoires, la moyenne et la variance des variables 
 
@@ -34,7 +38,7 @@ Les dites fonctions produiront les graphes pertinents qui permettent de visualis
 
 Cette section vous permettra d’acquérir les notions élémentaires de l’analyse statistique de données. Elles sont la base des méthodes d’inférence et de modélisation mises en œuvre dans la suite.
 
-### 2.1. Documents de base à consulter en autonomie sur [`wikiwtat.fr`](http://wikistat.fr/)
+### 2.1. Documents de base à consulter en autonomie sur [`wikistat.fr`](http://wikistat.fr/)
 
 - [Statistique élémentaire : Introduction](http://wikistat.fr/pdf/st-l-Intro-statElem.pdf)
 - [Statistique descriptive unidimensionnelle](http://wikistat.fr/pdf/st-l-des-uni.pdf)
