@@ -67,7 +67,7 @@ Cette section vous permettra d’acquérir et de mettre en œuvre 2 méthodes de
 ### 3.1. Documents de base à consulter en autonomie [`wikistat.fr`](http://wikistat.fr/)
  
 - [Introduction à la modélisation statistique](http://wikistat.fr/pdf/st-m-modlin-intro.pdf)
-- [Modèle gaussien: régression linéaire multiple](http://wikistat.fr/pdf/st-m-modlin-regsim.pdf)
+- [Modèle gaussien: régression linéaire multiple](http://wikistat.fr/pdf/st-m-modlin-regmult.pdf)
 - [Modèle binomial ou régression logistique](http://wikistat.fr/pdf/st-m-modlin-reglog.pdf)
  
 ### 3.2. Travail personnel demandé
