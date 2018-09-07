@@ -1,5 +1,13 @@
 # Module-sensibilisation
 Retrouvez ici les contenus à étudier en autonomie du module *sensibilisation*.
+_____
+**Planning de travail** :
+
+- Du 10 septembre au 3 octobre 2018 : faire les paragraphes 1, 2 et 3.
+- Séance en présenciel le 4 octobre 2018 après-midi.
+- Du 5 octobre au 28 octobre 2018 : faire les paragraphes 4, 5 et 6.
+- Séance en présenciel le lundi 29 octobre 2018 matin et après-midi.
+______
 
 Les ressources pédagogiques offrent plusieurs niveaux de lecture ou d'utilisation afin d'être au mieux adaptées à un public hétérogène. Plus précisément il faut voir ce certificat comme une introduction à la *Science des Données* qui propose des pistes et références pour des approfondissements ultérieurs.
 
@@ -18,6 +26,8 @@ Pour les parties suivantes, l'installation de Python 3 est requise pour la bonne
 Pour **exécuter les tutoriels**, il *suffit* de cloner ce dépôt, si vous avez un compte (gratuit) et les compétences nécessaires *GitHub*, ou encore, plus simplement, de [télécharger l'archive](https://github.com/Certificat-sciences-des-donnees-bigdata/Module-sensibilisation/archive/master.zip) puis de la dézipper. Lancer enfin *jupyter notebook* avant d'ouvrir les différents calepins (fichiers d'extension.ipynb) dans le navigateur par défaut qui exécute *jupyter*. L'exécution de chaque cellule d'un calepin est obtenue en cliquant sur le bouton `run`.
 
 ## 1 Introduction à R
+*A faire sur la période du 10/09 au 3/10*
+
 Le langage de programmation R est un langage reconnu pour l’analyse statistique de données, massives ou non.  L’acquisition de compétences dans l’utilisation de R est aujourd’hui un atout professionnel pour ceux qui le maîtrisent.
 
 ### 1.1 Documents de base à consulter en autonomie
@@ -35,6 +45,7 @@ Y = X1+X2 et Z = X1*X2.
 Les dites fonctions produiront les graphes pertinents qui permettent de visualiser les résultats de chacune des 6 fonctions.
 
 ## 2 Éléments d’analyse statistique de données
+*A faire sur la période du 10/09 au 3/10*
 
 Cette section vous permettra d’acquérir les notions élémentaires de l’analyse statistique de données. Elles sont la base des méthodes d’inférence et de modélisation mises en œuvre dans la suite.
 
@@ -61,6 +72,7 @@ Toutes ces études feront l’objet d’une restitution en groupe lors de la sé
 
 
 ## 3 Modélisation statistique
+*A faire sur la période du 10/09 au 3/10*
 
 Cette section vous permettra d’acquérir et de mettre en œuvre 2 méthodes de régression couramment utilisées dans l’analyse de données massives : la régression linéaire multiple et la régression logistique.
 
@@ -85,6 +97,8 @@ Vous trouverez ci-après, sans caractère limitatif, une liste de sujets auxquel
 
 
 ## 4 Introduction à Python
+*A faire sur la période du 5/10 au 28/10*
+
 *Python* et ses librairies produisent moins de résultat utiles que R à l'interprétation statistique mais fournissent des codes généralement plus efficaces pour aborder le traitement de données massives.
 
 Des [tutoriels](https://github.com/wikistat/Intro-Python) proposent une introduction à Python et une sélection des commandes utiles au statisticien et / ou *data scientist*.  
@@ -93,6 +107,7 @@ Une connaissance experte de Python n'est pas indispensbale au suivi de ce module
 
 
 ## 5 Exploration Multidimensionnelle
+*A faire sur la période du 5/10 au 28/10*
 
 Le choix a été fait de mettre plus particulièrement l'accent sur des exemples d'application issus du monde industriel (données physiques quantitatives) plutôt que des applications (données qualitatives) de type sondage,  marketing ou fouille de textes... Comme écrit plus haut, l'introduction à d'autres méthodes et d'autres exemples d'application sont à rechercher dans les ressources des autres niveaux (2 et 4) d'approfondissement.
 
@@ -117,6 +132,8 @@ D'autres exemples sont disponibles dans le dépôt [`github - wikistat - Explora
 
 
 ## 6 Principes de l'Apprentissage Statistique
+*A faire sur la période du 5/10 au 28/10*
+
 ### 6.1 Document de base à consulter en autonomie
 
 - [Principes de l'Apprentissage Statistique](https://github.com/Certificat-sciences-des-donnees-bigdata/Module-sensibilisation/blob/master/Documents/csdmsApprent.pdf) 
