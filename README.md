@@ -117,15 +117,19 @@ Le choix a été fait de mettre plus particulièrement l'accent sur des exemples
 - [Introduction](https://github.com/Certificat-sciences-des-donnees-bigdata/Module-sensibilisation/blob/master/Documents/csdmsIntro.pdf): De la statistique à la *Science des Données* en passant par la fouille de données (*Data Mining*).
 - [Exploration ](https://github.com/Certificat-sciences-des-donnees-bigdata/Module-sensibilisation/blob/master/Documents/csdmsExplo.pdf) en grande dimension avec l'analyse en composantes Principales (ACP), l'analyse factorielle discriminante (AFD); classification non supervisée (*clustering*) avec *k-means*.
 
-### 5.2 Tutoriels à approfondir lors du présenciel
+### 5.2 Tutoriels à réaliser en automnomie
 Profiter du présenciel pour exécuter les calepins (*jupyer notebooks*) et **surtout poser les questions** relatives au cours et aux traitements présentés dans les différents tutoriels.
 
 [**Télécharger**](https://github.com/Certificat-sciences-des-donnees-bigdata/Module-sensibilisation/archive/master.zip) l'ensemble de l'archive du dépôt ou *cloner* le dépôt si vous avez déjà un compte GitHub pour exécuter les tutoriels.
 
 1. [Intro-ACP-AFD](https://github.com/Certificat-sciences-des-donnees-bigdata/Module-sensibilisation/blob/master/Calepins/CSdD-Intro-ACP-AFD-Python.ipynb)
 2. [Adaptation statistique](https://github.com/Certificat-sciences-des-donnees-bigdata/Module-sensibilisation/blob/master/Calepins/CSdD-Pic-Ozone-Python.ipynb) et prévision de la concentration en ozone. Traiter la première partie: *Exploration*.
-3. [Reconnaissance d'activité](https://github.com/Certificat-sciences-des-donnees-bigdata/Module-sensibilisation/blob/master/Calepins/CSdD-ML4IoT-Har-Python.ipynb) à partir des enregistrements d'un smartphone. Traiter la première partie: *Exploration*.
-4. [Segmentation d'image](https://github.com/Certificat-sciences-des-donnees-bigdata/Module-sensibilisation/blob/master/Calepins/CSdD-Cluster-Mars-Python.ipynb) et cartographie de la surface de Mars.
+3. [Segmentation d'image](https://github.com/Certificat-sciences-des-donnees-bigdata/Module-sensibilisation/blob/master/Calepins/CSdD-Cluster-Mars-Python.ipynb) et cartographie de la surface de Mars.
+
+### 5.3 Tutoriel à réaliser en présenciel
+4. [Reconnaissance d'activité](https://github.com/Certificat-sciences-des-donnees-bigdata/Module-sensibilisation/blob/master/Calepins/CSdD-ML4IoT-Har-Python.ipynb) à partir des enregistrements d'un smartphone. Traiter la première partie: *Exploration*.
+
+Profiter du présenciel pour poser les questions sur les parties de cours mal comprises et approfondir la compréhension des tutoriels notamment les interprétations des résultats obtenus. 
 
 D'autres exemples sont disponibles dans le dépôt [`github - wikistat - Exploration`](https://github.com/wikistat/Exploration).
 
@@ -138,11 +142,16 @@ D'autres exemples sont disponibles dans le dépôt [`github - wikistat - Explora
 
 - [Principes de l'Apprentissage Statistique](https://github.com/Certificat-sciences-des-donnees-bigdata/Module-sensibilisation/blob/master/Documents/csdmsApprent.pdf) 
 
-### 6.2 Tutoriels à approfondir lors du présenciel
+### 6.2 Tutoriels à réaliser en autonomie
 
 - [Classification supervisée](https://github.com/Certificat-sciences-des-donnees-bigdata/Module-sensibilisation/blob/master/Calepins/CSdD-Intro-Apprent-Python.ipynb) de données synthétiques dans **R**²
 - [Adaptation statistique](https://github.com/Certificat-sciences-des-donnees-bigdata/Module-sensibilisation/blob/master/Calepins/CSdD-Pic-Ozone-Python.ipynb) et prévision de la concentration en ozone. Deuxième partie: *Apprentissage et Prévision*.
+
+
+### 6.3 Tutoriel à réaliser en présenciel
 - [Reconnaissance d'activité](https://github.com/Certificat-sciences-des-donnees-bigdata/Module-sensibilisation/blob/master/Calepins/CSdD-ML4IoT-Har-Python.ipynb) à partir des enregistrements d'un smartphone. Deuxième partie: *Apprentissage et Reconnaissance*.
+
+Profiter du présenciel pour poser les questions sur les parties de cours mal comprises et approfondir la compréhension des tutoriels notamment les interprétations des résultats obtenus. 
 
 D'autres exemples sont disponibles dans le dépôt [`github-wikistat-Apprentissage`](https://github.com/wikistat/Apprentissage).
 
