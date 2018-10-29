@@ -155,3 +155,14 @@ Profiter du présenciel pour poser les questions sur les parties de cours mal co
 
 D'autres exemples sont disponibles dans le dépôt [`github-wikistat-Apprentissage`](https://github.com/wikistat/Apprentissage).
 
+
+
+## 7 Infrastructures du big data
+
+*Le cours est disponible dans le fichier Documents*
+[Infrastructures](https://github.com/Certificat-sciences-des-donnees-bigdata/Module-sensibilisation/blob/master/Documents/Cours%20infrastructure%20301018.pdf)
+
+## 8 Optimisation
+
+*Le cours est disponible dans le fichier Documents*
+[Optimisation](https://github.com/Certificat-sciences-des-donnees-bigdata/Module-sensibilisation/blob/master/Documents/Cours%20optimisation%20301018.pdf)
