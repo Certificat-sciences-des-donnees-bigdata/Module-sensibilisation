@@ -95,6 +95,10 @@ Vous trouverez ci-après, sans caractère limitatif, une liste de sujets auxquel
 - Quel est le « bon » modèle à choisir : nombre de paramètres, valeurs des paramètres,... ?;
 - ...
 
+_____
+Corrigé de la séance du 4 octobre 2018:
+Vous trouverez le fichier R utilisé en séance dans le fichier Calepins : [Analyse et modélisation statistique avec R]
+_____
 
 ## 4 Introduction à Python
 *A faire sur la période du 5/10 au 28/10*
