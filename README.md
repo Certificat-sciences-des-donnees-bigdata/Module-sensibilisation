@@ -184,8 +184,8 @@ Toutes les questions concernant le projet doivent être posées via le **forum g
 
 *Le sujet est disponible dans le fichier Documents.* [Sujet Projet](https://github.com/Certificat-sciences-des-donnees-bigdata/Module-sensibilisation/blob/master/Documents/project-subject.pdf)
 
-*Le jupyter notebook associé est dans le fichier Calepins.* [Projet optimisation]
+*Le jupyter notebook associé est dans le fichier Calepins.* [Projet optimisation](https://github.com/Certificat-sciences-des-donnees-bigdata/Module-sensibilisation/blob/master/Calepins/Projet-Optimisation.ipynb)
 
-*Le fichier ratings.dat est dans le fichier data du même dossier*
+*Le fichier ratings.dat est dans le fichier data du même dossier.*
 
 Bon travail à tous !
