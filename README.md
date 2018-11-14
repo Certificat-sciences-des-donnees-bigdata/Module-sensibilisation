@@ -174,3 +174,14 @@ D'autres exemples sont disponibles dans le dépôt [`github-wikistat-Apprentissa
 
 *Le TP est disponible dans le fichier Calepins - c'est un jupyter notebook*
 [TP Optimisation](https://github.com/Certificat-sciences-des-donnees-bigdata/Module-sensibilisation/blob/master/Calepins/tp1_certificat_etudiant.ipynb)
+
+## 9 Projet de fin de module
+
+Pour conclure ce premier module, vous devez réaliser un projet en binôme. Le projet est à rendre au plus tard le **21 décembre à midi**.
+La composition des binômes doit être envoyée par email aux 2 enseignants mentionnés dans le sujet, au plus tard le **21 novembre à midi**. Lisez attentivement les conditions de travail indiquées dans le sujet.
+
+Toutes les questions concernant le projet doivent être posées via le **forum google groupe** mis en place au début du certificat.
+
+*Le sujet est disponible dans le fichier Documents.* *Les data et jupyter notebook sont dans le fichier Calepins.*
+
+Bon travail à tous !
