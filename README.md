@@ -189,6 +189,6 @@ La composition des binômes doit être envoyée par email aux 2 enseignants ment
 
 - *Le jupyter notebook associé est dans le fichier Calepins.* [Projet optimisation](https://github.com/Certificat-sciences-des-donnees-bigdata/Module-sensibilisation/blob/master/Calepins/Projet-Optimisation.ipynb)
 
-- *Le fichier ratings.dat est dans le fichier data du même dossier.*
+- *Le fichier ratings.dat est dans le fichier data du même dossier.* Il faut mettre ce fichier dans un dossier sur votre ordinateur.
 
 Bon travail à tous !
