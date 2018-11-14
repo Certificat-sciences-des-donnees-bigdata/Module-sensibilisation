@@ -182,6 +182,10 @@ La composition des binômes doit être envoyée par email aux 2 enseignants ment
 
 Toutes les questions concernant le projet doivent être posées via le **forum google groupe** mis en place au début du certificat.
 
-*Le sujet est disponible dans le fichier Documents.* *Les data et jupyter notebook sont dans le fichier Calepins.*
+*Le sujet est disponible dans le fichier Documents.* [Sujet Projet](https://github.com/Certificat-sciences-des-donnees-bigdata/Module-sensibilisation/blob/master/Documents/project-subject.pdf)
+
+*Le jupyter notebook associé est dans le fichier Calepins.* [Projet optimisation]
+
+*Le fichier ratings.dat est dans le fichier data du même dossier*
 
 Bon travail à tous !
