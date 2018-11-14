@@ -178,14 +178,17 @@ D'autres exemples sont disponibles dans le dépôt [`github-wikistat-Apprentissa
 ## 9 Projet de fin de module
 
 Pour conclure ce premier module, vous devez réaliser un projet en binôme. Le projet est à rendre au plus tard le **21 décembre à midi**.
-La composition des binômes doit être envoyée par email aux 2 enseignants mentionnés dans le sujet, au plus tard le **21 novembre à midi**. Lisez attentivement les conditions de travail indiquées dans le sujet.
 
-Toutes les questions concernant le projet doivent être posées via le **forum google groupe** mis en place au début du certificat.
+La composition des binômes doit être envoyée par email aux 2 enseignants mentionnés dans le sujet, au plus tard le **21 novembre à midi**. 
 
-*Le sujet est disponible dans le fichier Documents.* [Sujet Projet](https://github.com/Certificat-sciences-des-donnees-bigdata/Module-sensibilisation/blob/master/Documents/project-subject.pdf)
+**Lisez attentivement les conditions de travail indiquées dans le sujet.**
 
-*Le jupyter notebook associé est dans le fichier Calepins.* [Projet optimisation](https://github.com/Certificat-sciences-des-donnees-bigdata/Module-sensibilisation/blob/master/Calepins/Projet-Optimisation.ipynb)
+**Toutes les questions concernant le projet doivent être posées via le forum google groupe** mis en place au début du certificat.
 
-*Le fichier ratings.dat est dans le fichier data du même dossier.*
+- *Le sujet est disponible dans le fichier Documents.* [Sujet Projet](https://github.com/Certificat-sciences-des-donnees-bigdata/Module-sensibilisation/blob/master/Documents/project-subject.pdf)
+
+- *Le jupyter notebook associé est dans le fichier Calepins.* [Projet optimisation](https://github.com/Certificat-sciences-des-donnees-bigdata/Module-sensibilisation/blob/master/Calepins/Projet-Optimisation.ipynb)
+
+- *Le fichier ratings.dat est dans le fichier data du même dossier.*
 
 Bon travail à tous !
