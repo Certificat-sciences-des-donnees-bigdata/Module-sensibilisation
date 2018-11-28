@@ -191,6 +191,6 @@ La composition des binômes doit être envoyée par email aux 2 enseignants ment
 
 - *Le fichier ratings.dat est dans le fichier data du même dossier.* Il faut mettre ce fichier dans un dossier sur votre ordinateur.
 
-- La liste des binôme est disponible dans le fichier [Liste binôme] (https://github.com/Certificat-sciences-des-donnees-bigdata/Module-sensibilisation/blob/master/Documents/18_1127%20liste_binomes.pdf)
+- La liste des binôme est disponible dans le fichier [Liste binôme](https://github.com/Certificat-sciences-des-donnees-bigdata/Module-sensibilisation/blob/master/Documents/18_1127%20liste_binomes.pdf)
 
 Bon travail à tous !
