@@ -177,7 +177,7 @@ D'autres exemples sont disponibles dans le dépôt [`github-wikistat-Apprentissa
 
 ## 9 Projet de fin de module
 
-Pour conclure ce premier module, vous devez réaliser un projet en binôme. Le projet est à rendre au plus tard le **21 décembre à midi**.
+Pour conclure ce premier module, vous devez réaliser un projet en binôme. Le projet est à rendre au plus tard le **31 janvier à midi**.
 
 La composition des binômes doit être envoyée par email aux 2 enseignants mentionnés dans le sujet, au plus tard le **21 novembre à midi**. 
 
