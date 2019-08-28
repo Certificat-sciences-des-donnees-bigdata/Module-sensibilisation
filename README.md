@@ -170,6 +170,7 @@ D'autres exemples sont disponibles dans le dépôt [`github-wikistat-Apprentissa
 
 *Le cours est disponible dans le fichier Documents*
 [Infrastructures](https://github.com/Certificat-sciences-des-donnees-bigdata/Module-sensibilisation/blob/master/Documents/Cours%20infrastructure%20301018.pdf)
+Seance en presentiel le mardi 29 octobre 2019.
 
 ## 8 Optimisation
 
@@ -178,6 +179,8 @@ D'autres exemples sont disponibles dans le dépôt [`github-wikistat-Apprentissa
 
 *Le TP est disponible dans le fichier Calepins - c'est un jupyter notebook*
 [TP Optimisation](https://github.com/Certificat-sciences-des-donnees-bigdata/Module-sensibilisation/blob/master/Calepins/tp1_certificat_etudiant.ipynb)
+
+Seance en presentiel le mardi 29 octobre 2019.
 
 ## 9 Projet de fin de module
 
