@@ -3,10 +3,11 @@ Retrouvez ici les contenus à étudier en autonomie du module *sensibilisation*.
 _____
 **Planning de travail** :
 
-- Du 10 septembre au 3 octobre 2018 : faire les paragraphes 1, 2 et 3.
-- Séance en présenciel le 4 octobre 2018 après-midi.
-- Du 5 octobre au 28 octobre 2018 : faire les paragraphes 4, 5 et 6.
-- Séance en présenciel le lundi 29 octobre 2018 matin et après-midi.
+- 12 septembre 2019 : réunion de rentrée
+- Du 12 septembre au 2 octobre 2019 : faire les paragraphes 1, 2 et 3.
+- Séance en présenciel le 3 octobre 2019 après-midi.
+- Du 4 octobre au 27 octobre 2019 : faire les paragraphes 4, 5 et 6.
+- Séance en présenciel le lundi 28 octobre et mardi 29 octobre 2019, matin et après-midi.
 ______
 
 Les ressources pédagogiques offrent plusieurs niveaux de lecture ou d'utilisation afin d'être au mieux adaptées à un public hétérogène. Plus précisément il faut voir ce certificat comme une introduction à la *Science des Données* qui propose des pistes et références pour des approfondissements ultérieurs.
