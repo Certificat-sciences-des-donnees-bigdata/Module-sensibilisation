@@ -102,7 +102,7 @@ _____
 [#### **Corrigé de la séance du 4 octobre 2018 :**]: <>
 
 [Vous trouverez le fichier R utilisé en séance dans le fichier Calepins]: <>
-[[Analyse et modélisation statistique avec R](https://github.com/Certificat-sciences-des-donnees-bigdata/Module-sensibilisation/blob/master/Calepins/Analyse%20et%20modelisation%20statistique%20sur%20R%20Ozone_4-10-2018.r)]: <>
+[Analyse et modélisation statistique avec R, https://github.com/Certificat-sciences-des-donnees-bigdata/Modulesensibilisation/blob/master/Calepins/Analyse%20et%20modelisation%20statistique%20sur%20R%20Ozone_4-10-2018.r]: <>
 _____
 
 ## 4 Introduction à Python
