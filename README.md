@@ -106,7 +106,7 @@ _____
 _____
 
 ## 4 Introduction à Python
-*A faire sur la période du 5/10 au 28/10*
+*A faire sur la période du 4/10 au 27/10*
 
 *Python* et ses librairies produisent moins de résultat utiles que R à l'interprétation statistique mais fournissent des codes généralement plus efficaces pour aborder le traitement de données massives.
 
@@ -116,7 +116,7 @@ Une connaissance experte de Python n'est pas indispensbale au suivi de ce module
 
 
 ## 5 Exploration Multidimensionnelle
-*A faire sur la période du 5/10 au 28/10*
+*A faire sur la période du 4/10 au 27/10*
 
 Le choix a été fait de mettre plus particulièrement l'accent sur des exemples d'application issus du monde industriel (données physiques quantitatives) plutôt que des applications (données qualitatives) de type sondage,  marketing ou fouille de textes... Comme écrit plus haut, l'introduction à d'autres méthodes et d'autres exemples d'application sont à rechercher dans les ressources des autres niveaux (2 et 4) d'approfondissement.
 
@@ -145,7 +145,7 @@ D'autres exemples sont disponibles dans le dépôt [`github - wikistat - Explora
 
 
 ## 6 Principes de l'Apprentissage Statistique
-*A faire sur la période du 5/10 au 28/10*
+*A faire sur la période du 4/10 au 27/10*
 
 ### 6.1 Document de base à consulter en autonomie
 
@@ -181,20 +181,22 @@ D'autres exemples sont disponibles dans le dépôt [`github-wikistat-Apprentissa
 
 ## 9 Projet de fin de module
 
-Pour conclure ce premier module, vous devez réaliser un projet en binôme. Le projet est à rendre au plus tard le **31 janvier à midi**.
+Pour conclure ce premier module, vous devez réaliser un projet. Tous les détails seront donnés plus tard.
 
-La composition des binômes doit être envoyée par email aux 2 enseignants mentionnés dans le sujet, au plus tard le **21 novembre à midi**. 
+[en binôme. Le projet est à rendre au plus tard le **31 janvier à midi**.]: <>
 
-**Lisez attentivement les conditions de travail indiquées dans le sujet.**
+[La composition des binômes doit être envoyée par email aux 2 enseignants mentionnés dans le sujet, au plus tard le **21 novembre à midi**. ]: <>
 
-**Toutes les questions concernant le projet doivent être posées via le forum google groupe** mis en place au début du certificat.
+[**Lisez attentivement les conditions de travail indiquées dans le sujet.**]: <>
 
-- *Le sujet est disponible dans le fichier Documents.* [Sujet Projet](https://github.com/Certificat-sciences-des-donnees-bigdata/Module-sensibilisation/blob/master/Documents/project-subject.pdf)
+[**Toutes les questions concernant le projet doivent être posées via le forum google groupe** mis en place au début du certificat.]: <>
 
-- *Le jupyter notebook associé est dans le fichier Calepins.* [Projet optimisation](https://github.com/Certificat-sciences-des-donnees-bigdata/Module-sensibilisation/blob/master/Calepins/Projet-Optimisation.ipynb)
+[- *Le sujet est disponible dans le fichier Documents.* [Sujet Projet](https://github.com/Certificat-sciences-des-donnees-bigdata/Module-sensibilisation/blob/master/Documents/project-subject.pdf)]: <>
 
-- *Le fichier ratings.dat est dans le fichier data du même dossier.* Il faut mettre ce fichier dans un dossier sur votre ordinateur.
+[- *Le jupyter notebook associé est dans le fichier Calepins.* [Projet optimisation](https://github.com/Certificat-sciences-des-donnees-bigdata/Module-sensibilisation/blob/master/Calepins/Projet-Optimisation.ipynb)]: <>
 
-- La liste des binômes est disponible dans le fichier [Liste binôme](https://github.com/Certificat-sciences-des-donnees-bigdata/Module-sensibilisation/blob/master/Documents/liste_binomes.pdf)
+[- *Le fichier ratings.dat est dans le fichier data du même dossier.* Il faut mettre ce fichier dans un dossier sur votre ordinateur.]: <>
+
+[- La liste des binômes est disponible dans le fichier [Liste binôme](https://github.com/Certificat-sciences-des-donnees-bigdata/Module-sensibilisation/blob/master/Documents/liste_binomes.pdf)]: <>
 
 Bon travail à tous !
