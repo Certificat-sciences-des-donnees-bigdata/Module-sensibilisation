@@ -127,7 +127,7 @@ Le choix a été fait de mettre plus particulièrement l'accent sur des exemples
 - [Exploration ](https://github.com/Certificat-sciences-des-donnees-bigdata/Module-sensibilisation/blob/master/Documents/csdmsExplo.pdf) en grande dimension avec l'analyse en composantes Principales (ACP), l'analyse factorielle discriminante (AFD); classification non supervisée (*clustering*) avec *k-means*.
 
 ### 5.2 Tutoriels à réaliser en automnomie
-Profiter du présenciel pour exécuter les calepins (*jupyer notebooks*) et **surtout poser les questions** relatives au cours et aux traitements présentés dans les différents tutoriels.
+Réaliser ces tutoriels en autonomie et profiter du présenciel pour **poser les questions** relatives au cours et aux traitements présentés dans les différents tutoriels.
 
 [**Télécharger**](https://github.com/Certificat-sciences-des-donnees-bigdata/Module-sensibilisation/archive/master.zip) l'ensemble de l'archive du dépôt ou *cloner* le dépôt si vous avez déjà un compte GitHub pour exécuter les tutoriels.
 
@@ -137,6 +137,8 @@ Profiter du présenciel pour exécuter les calepins (*jupyer notebooks*) et **su
 
 ### 5.3 Tutoriel à réaliser en présenciel
 4. [Reconnaissance d'activité](https://github.com/Certificat-sciences-des-donnees-bigdata/Module-sensibilisation/blob/master/Calepins/CSdD-ML4IoT-Har-Python.ipynb) à partir des enregistrements d'un smartphone. Traiter la première partie: *Exploration*.
+
+<ins> Seance en presentiel le lundi 28 octobre 2019. </ins>
 
 Profiter du présenciel pour poser les questions sur les parties de cours mal comprises et approfondir la compréhension des tutoriels notamment les interprétations des résultats obtenus. 
 
@@ -160,6 +162,8 @@ D'autres exemples sont disponibles dans le dépôt [`github - wikistat - Explora
 ### 6.3 Tutoriel à réaliser en présenciel
 - [Reconnaissance d'activité](https://github.com/Certificat-sciences-des-donnees-bigdata/Module-sensibilisation/blob/master/Calepins/CSdD-ML4IoT-Har-Python.ipynb) à partir des enregistrements d'un smartphone. Deuxième partie: *Apprentissage et Reconnaissance*.
 
+<ins> Seance en presentiel le lundi 28 octobre 2019. </ins>
+
 Profiter du présenciel pour poser les questions sur les parties de cours mal comprises et approfondir la compréhension des tutoriels notamment les interprétations des résultats obtenus. 
 
 D'autres exemples sont disponibles dans le dépôt [`github-wikistat-Apprentissage`](https://github.com/wikistat/Apprentissage).
@@ -169,8 +173,9 @@ D'autres exemples sont disponibles dans le dépôt [`github-wikistat-Apprentissa
 ## 7 Infrastructures du big data
 
 *Le cours est disponible dans le fichier Documents*
-[Infrastructures](https://github.com/Certificat-sciences-des-donnees-bigdata/Module-sensibilisation/blob/master/Documents/Cours%20infrastructure%20301018.pdf)
-Seance en presentiel le mardi 29 octobre 2019.
+[Infrastructures](https://github.com/Certificat-sciences-des-donnees-bigdata/Module-sensibilisation/blob/master/Documents/Cours%20infrastructure%20301018.pdf).
+
+<ins> Seance en presentiel le mardi 29 octobre 2019. </ins>
 
 ## 8 Optimisation
 
@@ -180,7 +185,7 @@ Seance en presentiel le mardi 29 octobre 2019.
 *Le TP est disponible dans le fichier Calepins - c'est un jupyter notebook*
 [TP Optimisation](https://github.com/Certificat-sciences-des-donnees-bigdata/Module-sensibilisation/blob/master/Calepins/tp1_certificat_etudiant.ipynb)
 
-Seance en presentiel le mardi 29 octobre 2019.
+<ins> Seance en presentiel le mardi 29 octobre 2019. </ins> 
 
 ## 9 Projet de fin de module
 
