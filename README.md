@@ -26,8 +26,10 @@ Pour les parties suivantes, l'installation de Python 3 est requise pour la bonne
 
 Pour **exécuter les tutoriels**, il *suffit* de cloner ce dépôt, si vous avez un compte (gratuit) et les compétences nécessaires *GitHub*, ou encore, plus simplement, de [télécharger l'archive](https://github.com/Certificat-sciences-des-donnees-bigdata/Module-sensibilisation/archive/master.zip) puis de la dézipper. Lancer enfin *jupyter notebook* avant d'ouvrir les différents calepins (fichiers d'extension.ipynb) dans le navigateur par défaut qui exécute *jupyter*. L'exécution de chaque cellule d'un calepin est obtenue en cliquant sur le bouton `run`.
 
+L'installation de certains paquets requis pour exécuter les codes peut causer des problèmes dans Windows, il est donc fortement recommandé de créer une partition Linux ou une machine virtuelle, ou autrement d'utiliser [Colab](https://colab.research.google.com). 
+
 ## 1 Introduction à R
-*A faire sur la période du 10/09 au 3/10*
+*A faire sur la période du 12/09 au 2/10*
 
 Le langage de programmation R est un langage reconnu pour l’analyse statistique de données, massives ou non.  L’acquisition de compétences dans l’utilisation de R est aujourd’hui un atout professionnel pour ceux qui le maîtrisent.
 
@@ -46,7 +48,7 @@ Y = X1+X2 et Z = X1*X2.
 Les dites fonctions produiront les graphes pertinents qui permettent de visualiser les résultats de chacune des 6 fonctions.
 
 ## 2 Éléments d’analyse statistique de données
-*A faire sur la période du 10/09 au 3/10*
+*A faire sur la période du 12/09 au 2/10*
 
 Cette section vous permettra d’acquérir les notions élémentaires de l’analyse statistique de données. Elles sont la base des méthodes d’inférence et de modélisation mises en œuvre dans la suite.
 
@@ -69,11 +71,11 @@ Le travail attendu est un travail personnel d’autoévaluation de votre maîtri
 - Tester la nullité du coefficient de corrélation linéaire ;
 - ...
 
-Toutes ces études feront l’objet d’une restitution en groupe lors de la séance en présentiel et de discussions lors des séances hors présentiel (contactez alors les enseignants florent.bourgeois@ensiacet.fr et pascal.floquet@ensiacet.fr) ou en présentiel.
+Toutes ces études feront l’objet d’une restitution en groupe lors de la séance en présentiel du 3 octobre et de discussions lors des séances hors présentiel (contactez alors les enseignants florent.bourgeois@ensiacet.fr et pascal.floquet@ensiacet.fr) ou en présentiel.
 
 
 ## 3 Modélisation statistique
-*A faire sur la période du 10/09 au 3/10*
+*A faire sur la période du 12/09 au 2/10*
 
 Cette section vous permettra d’acquérir et de mettre en œuvre 2 méthodes de régression couramment utilisées dans l’analyse de données massives : la régression linéaire multiple et la régression logistique.
 
@@ -97,9 +99,9 @@ Vous trouverez ci-après, sans caractère limitatif, une liste de sujets auxquel
 - ...
 
 _____
-#### **Corrigé de la séance du 4 octobre 2018 :**
+<#### **Corrigé de la séance du 4 octobre 2018 :**>
 
-Vous trouverez le fichier R utilisé en séance dans le fichier Calepins : [Analyse et modélisation statistique avec R](https://github.com/Certificat-sciences-des-donnees-bigdata/Module-sensibilisation/blob/master/Calepins/Analyse%20et%20modelisation%20statistique%20sur%20R%20Ozone_4-10-2018.r)
+<Vous trouverez le fichier R utilisé en séance dans le fichier Calepins : [Analyse et modélisation statistique avec R](https://github.com/Certificat-sciences-des-donnees-bigdata/Module-sensibilisation/blob/master/Calepins/Analyse%20et%20modelisation%20statistique%20sur%20R%20Ozone_4-10-2018.r)>
 _____
 
 ## 4 Introduction à Python
