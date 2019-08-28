@@ -191,12 +191,12 @@ Pour conclure ce premier module, vous devez réaliser un projet. Tous les détai
 
 [**Toutes les questions concernant le projet doivent être posées via le forum google groupe** mis en place au début du certificat.]: <>
 
-[- *Le sujet est disponible dans le fichier Documents.* [Sujet Projet](https://github.com/Certificat-sciences-des-donnees-bigdata/Module-sensibilisation/blob/master/Documents/project-subject.pdf)]: <>
+[- *Le sujet est disponible dans le fichier Documents.* Sujet Projet, https://github.com/Certificat-sciences-des-donnees-bigdata/Module-sensibilisation/blob/master/Documents/project-subject.pdf]: <>
 
-[- *Le jupyter notebook associé est dans le fichier Calepins.* [Projet optimisation](https://github.com/Certificat-sciences-des-donnees-bigdata/Module-sensibilisation/blob/master/Calepins/Projet-Optimisation.ipynb)]: <>
+[- *Le jupyter notebook associé est dans le fichier Calepins.* Projet optimisation, https://github.com/Certificat-sciences-des-donnees-bigdata/Module-sensibilisation/blob/master/Calepins/Projet-Optimisation.ipynb]: <>
 
 [- *Le fichier ratings.dat est dans le fichier data du même dossier.* Il faut mettre ce fichier dans un dossier sur votre ordinateur.]: <>
 
-[- La liste des binômes est disponible dans le fichier [Liste binôme](https://github.com/Certificat-sciences-des-donnees-bigdata/Module-sensibilisation/blob/master/Documents/liste_binomes.pdf)]: <>
+[- La liste des binômes est disponible dans le fichier Liste binôme, https://github.com/Certificat-sciences-des-donnees-bigdata/Module-sensibilisation/blob/master/Documents/liste_binomes.pdf]: <>
 
 Bon travail à tous !
