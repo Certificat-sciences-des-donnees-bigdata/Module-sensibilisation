@@ -1,7 +1,7 @@
 # Module-sensibilisation
 Retrouvez ici les contenus à étudier en autonomie du module *sensibilisation*.
 _____
-**Planning de travail** :
+## Planning de travail
 
 - 12 septembre 2019 : réunion de rentrée
 - Du 12 septembre au 2 octobre 2019 : faire les paragraphes 1, 2 et 3.
@@ -18,15 +18,33 @@ Les ressources pédagogiques offrent plusieurs niveaux de lecture ou d'utilisati
 3. Le troisième niveau, appliqué, est composé des tutoriels (calepins ou jupyter notebooks) explicitant le traitement élémentaire de données "jouet", les exemples illustrant les documents de cours et d'autres exemples sur des données réelles. Ils servent de base de travail durant les phases de présenciel. 
 4. Un quatrième niveau est à rechercher avec d'autres exemples d'utilisation disponibles dans les dépôts: [`github-wikistat`](https://github.com/wikistat/).
 
-**Attention** : logiciels à installer
+## Attention à l'environnement logiciel
+*Deux solutions sont possibles*
 
-Pour les parties 1. Introduction à R, 2. Eléments d'analyse statistique de données et 3. Modélisation statistique, il faut installer le logiciel R. Il s'installe à partir du lien [R-project](https://www.r-project.org/) en choisissant la version qui correspond au système d’exploitation de la machine de l’utilisateur (Windows, ios, Linux). L’interface conseillée pour l’utilisation de R s’appelle [RStudio Desktop](http://www.rstudio.com/products/rstudio/download) en choisissant la version Open Source License.
+1. Utilisation élémentaire avec *Google Colab*
+2. Utilisation experte des *notebooks* d'un dépôt *Github* après installation de R et Python, puis chargement ou clônage du dépôt.
+
+### 1 Solution élémentaire avec *Google Colab*
+- Une seule fois: 
+    - Installer puis exécuter le navigateur *Chrome*
+    - Ajouter à *Chrome* l'extension *"open notebook in google colab"*
+- Pour chaque tutoriel
+   - Lancer *Chrome*
+   - Se connecter avec son compte *Gmail*
+   - Ouvrir l'URL de [Google Colab](https://colab.research.google.com/notebooks/welcome.ipynb)
+   - Ouvrir dans *Chrome* le tutoriel ou *notebook* du dépôt à exécuter à partir de son URL
+   - Cliquer sur l’icône d*"open notebook in google colab"*
+   - Suivre le tutoriel en exécutant chaque cellule
+
+### 2 Solution experte avec installations des logiciels
+
+Pour les parties 1. Introduction à R, 2. Eléments d'analyse statistique de données et 3. Modélisation statistique, il faut installer le logiciel R. Il s'installe à partir du lien [R-project](https://www.r-project.org/) en choisissant la version qui correspond au système d’exploitation de la machine de l’utilisateur (Windows, ios, Linux). L’interface conseillée pour l’utilisation de R s’appelle [RStudio Desktop](http://www.rstudio.com/products/rstudio/download) en choisissant la version *Open Source License*.
 
 Pour les parties suivantes, l'installation de Python 3 est requise pour la bonne exécution des tutoriels. Le plus simple est de l'installer à partir de la distribution [Anaconda](https://www.anaconda.com/download/). R nécessite également l'installation du noyau [IRkernel](https://irkernel.github.io/installation/).
 
-Pour **exécuter les tutoriels**, il *suffit* de cloner ce dépôt, si vous avez un compte (gratuit) et les compétences nécessaires *GitHub*, ou encore, plus simplement, de [télécharger l'archive](https://github.com/Certificat-sciences-des-donnees-bigdata/Module-sensibilisation/archive/master.zip) puis de la dézipper. Lancer enfin *jupyter notebook* avant d'ouvrir les différents calepins (fichiers d'extension.ipynb) dans le navigateur par défaut qui exécute *jupyter*. L'exécution de chaque cellule d'un calepin est obtenue en cliquant sur le bouton `run`.
+Pour **exécuter les tutoriels**, il *suffit* de cloner ce dépôt, si vous avez un compte (gratuit) et les compétences nécessaires *GitHub*, ou encore, plus simplement, de [télécharger l'archive](https://github.com/Certificat-sciences-des-donnees-bigdata/Module-sensibilisation/archive/master.zip) puis de la dézipper. Lancer enfin *jupyter notebook* dans une fenêtre de commande. Le navigateur par défaut ouvre une fenêtre. Dans cette fenêtre, se déplacer dans le bon répertoire chargé ou clôné, puis ouvrir les différents calepins (fichiers d'extension.ipynb). L'exécution de chaque cellule d'un calepin est obtenue en cliquant sur le bouton `run`.
 
-L'installation de certains paquets requis pour exécuter les codes peut causer des problèmes dans Windows, il est donc fortement recommandé de créer une partition Linux ou une machine virtuelle, ou autrement d'utiliser [Colab](https://colab.research.google.com). 
+L'installation de certains paquets requis pour exécuter les codes peut causer des problèmes dans Windows, il est donc fortement recommandé de créer une partition Linux ou une machine virtuelle, ou autrement d'utiliser [Colab](https://colab.research.google.com)... si ça coince trop...
 
 ## 1 Introduction à R
 *A faire sur la période du 12/09 au 2/10*
