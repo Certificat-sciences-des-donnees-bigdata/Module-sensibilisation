@@ -15,14 +15,16 @@ Les ressources pédagogiques offrent plusieurs niveaux de lecture ou d'utilisati
 1. Le premier niveau est constitué des documents de cours de base (format `.pdf`) ci-dessous présentant les 
 *grands principes* des méthodes ainsi que de nombreux exemples d'utilisation. Ils suffisent à une compréhension générale.
 2. Ces documents pointent (liens hypertextes) vers des ressources de *deuxième niveau* ou d'approfondissement car intégrant les formulatons mathématiques des méthodes et algorithmes. Ces ressources sont celles du site collaboratif [`wikistat`](http://wikistat.fr/).
-3. Le troisième niveau, appliqué, est composé des tutoriels (calepins ou jupyter notebooks) explicitant le traitement élémentaire de données "jouet", les exemples illustrant les documents de cours et d'autres exemples sur des données réelles. Ils servent de base de travail durant les phases de présenciel. 
+3. Le troisième niveau, appliqué, est composé des tutoriels (calepins ou jupyter notebooks) explicitant le traitement élémentaire de données "jouet", les exemples illustrant les documents de cours et d'autres exemples sur des données réelles. Ils servent de base de travail durant les phases de présentiel. 
 4. Un quatrième niveau est à rechercher avec d'autres exemples d'utilisation disponibles dans les dépôts: [`github-wikistat`](https://github.com/wikistat/).
 
-## Attention à l'environnement logiciel
+## Environnement logiciel
 *Deux solutions sont possibles*
 
 1. Utilisation élémentaire avec *Google Colab*
 2. Utilisation experte des *notebooks* d'un dépôt *Github* après installation de R et Python, puis chargement ou clônage du dépôt.
+
+**Attention** l'utilisation de *Google Colab* nécessite une connexion internet correcte contrairement à une exécution en locale une fois le dépôt *Github* chargé ou clôné. De plus les fichiers de données sont nécessairement chargés sur internet  pour chaque tutoriel.
 
 ### 1 Solution élémentaire avec *Google Colab*
 - Une seule fois: 
@@ -145,24 +147,25 @@ Le choix a été fait de mettre plus particulièrement l'accent sur des exemples
 - [Exploration ](https://github.com/Certificat-sciences-des-donnees-bigdata/Module-sensibilisation/blob/master/Documents/csdmsExplo.pdf) en grande dimension avec l'analyse en composantes Principales (ACP), l'analyse factorielle discriminante (AFD); classification non supervisée (*clustering*) avec *k-means*.
 
 ### 5.2 Tutoriels à réaliser en automnomie
-Réaliser ces tutoriels en autonomie et profiter du présenciel pour **poser les questions** relatives au cours et aux traitements présentés dans les différents tutoriels.
 
 [**Télécharger**](https://github.com/Certificat-sciences-des-donnees-bigdata/Module-sensibilisation/archive/master.zip) l'ensemble de l'archive du dépôt ou *cloner* le dépôt si vous avez déjà un compte GitHub pour exécuter les tutoriels.
+
+Réaliser ces tutoriels en autonomie:
 
 1. [Intro-ACP-AFD](https://github.com/Certificat-sciences-des-donnees-bigdata/Module-sensibilisation/blob/master/Calepins/CSdD-Intro-ACP-AFD-Python.ipynb)
 2. [Adaptation statistique](https://github.com/Certificat-sciences-des-donnees-bigdata/Module-sensibilisation/blob/master/Calepins/CSdD-Pic-Ozone-Python.ipynb) et prévision de la concentration en ozone. Traiter la première partie: *Exploration*.
 3. [Segmentation d'image](https://github.com/Certificat-sciences-des-donnees-bigdata/Module-sensibilisation/blob/master/Calepins/CSdD-Cluster-Mars-Python.ipynb) et cartographie de la surface de Mars.
 
-### 5.3 Tutoriel à réaliser en présenciel
-4. [Reconnaissance d'activité](https://github.com/Certificat-sciences-des-donnees-bigdata/Module-sensibilisation/blob/master/Calepins/CSdD-ML4IoT-Har-Python.ipynb) à partir des enregistrements d'un smartphone. Traiter la première partie: *Exploration*.
+**Travail personnel demandé**: Préparer les réponses aux questions **Q** qui jalonnent chaque tutoriel.
 
-<ins> Seance en presentiel le lundi 28 octobre 2019. </ins>
 
-Profiter du présenciel pour poser les questions sur les parties de cours mal comprises et approfondir la compréhension des tutoriels notamment les interprétations des résultats obtenus. 
+### 5.3 Présentiel le lundi 28 octobre 2019 matin
+
+- Revue des points délicats du cours et des questions soulevées dans les tutoriels
+
+- Tutoriel *fil rouge*: [Reconnaissance d'activité](https://github.com/Certificat-sciences-des-donnees-bigdata/Module-sensibilisation/blob/master/Calepins/CSdD-ML4IoT-Har-Python.ipynb) à partir des enregistrements d'un smartphone. Traiter la première partie: *Exploration*.
 
 D'autres exemples sont disponibles dans le dépôt [`github - wikistat - Exploration`](https://github.com/wikistat/Exploration).
-
-
 
 ## 6 Principes de l'Apprentissage Statistique
 *A faire sur la période du 4/10 au 27/10*
@@ -176,16 +179,15 @@ D'autres exemples sont disponibles dans le dépôt [`github - wikistat - Explora
 - [Classification supervisée](https://github.com/Certificat-sciences-des-donnees-bigdata/Module-sensibilisation/blob/master/Calepins/CSdD-Intro-Apprent-Python.ipynb) de données synthétiques dans **R**²
 - [Adaptation statistique](https://github.com/Certificat-sciences-des-donnees-bigdata/Module-sensibilisation/blob/master/Calepins/CSdD-Pic-Ozone-Python.ipynb) et prévision de la concentration en ozone. Deuxième partie: *Apprentissage et Prévision*.
 
+**Travail personnel demandé**: Préparer les réponses aux questions **Q** qui jalonnent chaque tutoriel.
 
-### 6.3 Tutoriel à réaliser en présenciel
-- [Reconnaissance d'activité](https://github.com/Certificat-sciences-des-donnees-bigdata/Module-sensibilisation/blob/master/Calepins/CSdD-ML4IoT-Har-Python.ipynb) à partir des enregistrements d'un smartphone. Deuxième partie: *Apprentissage et Reconnaissance*.
+### 6.3 Présentiel le lundi 28 octobre 2019 après midi
 
-<ins> Seance en presentiel le lundi 28 octobre 2019. </ins>
+- Revue des points délicats du cours et des questions soulevées dans les tutoriels
 
-Profiter du présenciel pour poser les questions sur les parties de cours mal comprises et approfondir la compréhension des tutoriels notamment les interprétations des résultats obtenus. 
+- Tutoriel *fil rouge*: [Reconnaissance d'activité](https://github.com/Certificat-sciences-des-donnees-bigdata/Module-sensibilisation/blob/master/Calepins/CSdD-ML4IoT-Har-Python.ipynb) à partir des enregistrements d'un smartphone. Deuxième partie: *Apprentissage et Reconnaissance*.
 
 D'autres exemples sont disponibles dans le dépôt [`github-wikistat-Apprentissage`](https://github.com/wikistat/Apprentissage).
-
 
 
 ## 7 Infrastructures du big data
@@ -193,7 +195,7 @@ D'autres exemples sont disponibles dans le dépôt [`github-wikistat-Apprentissa
 *Le cours est disponible dans le fichier Documents*
 [Infrastructures](https://github.com/Certificat-sciences-des-donnees-bigdata/Module-sensibilisation/blob/master/Documents/Cours%20infrastructure%20301018.pdf).
 
-<ins> Seance en presentiel le mardi 29 octobre 2019. </ins>
+<ins> Séance en présentiel le mardi 29 octobre 2019. </ins>
 
 ## 8 Optimisation
 
@@ -203,7 +205,7 @@ D'autres exemples sont disponibles dans le dépôt [`github-wikistat-Apprentissa
 *Le TP est disponible dans le fichier Calepins - c'est un jupyter notebook*
 [TP Optimisation](https://github.com/Certificat-sciences-des-donnees-bigdata/Module-sensibilisation/blob/master/Calepins/tp1_certificat_etudiant.ipynb)
 
-<ins> Seance en presentiel le mardi 29 octobre 2019. </ins> 
+<ins> Séance en présentiel le mardi 29 octobre 2019. </ins> 
 
 ## 9 Projet de fin de module
 
