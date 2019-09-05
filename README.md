@@ -48,7 +48,10 @@ Pour **exécuter les tutoriels**, il *suffit* de cloner ce dépôt, si vous avez
 
 L'installation de certains paquets requis pour exécuter les codes peut causer des problèmes dans Windows, il est donc fortement recommandé de créer une partition Linux ou une machine virtuelle, ou autrement d'utiliser [Colab](https://colab.research.google.com)... si ça coince trop...
 
-## 1 Introduction à R
+
+Les sections 1, 2 et 3 du module de sensibilisation portent sur des connaissances de base en analyse statistique de données, que d’aucuns auront sans doute abordées durant leurs études. Elles se clôtureront par une séance d’une demi-journée en présentiel, durant laquelle les notions acquises seront revisitées sur la base d’un jeu de questions-réponses entre les élèves de la classe et les enseignants, en s’appuyant sur les travaux personnels proposés dans ces sections.
+
+## 1 Introduction à R pour le calcul statistique
 *A faire sur la période du 12/09 au 2/10*
 
 Le langage de programmation R est un langage reconnu pour l’analyse statistique de données, massives ou non.  L’acquisition de compétences dans l’utilisation de R est aujourd’hui un atout professionnel pour ceux qui le maîtrisent.
@@ -56,7 +59,8 @@ Le langage de programmation R est un langage reconnu pour l’analyse statistiqu
 ### 1.1 Documents de base à consulter en autonomie
 - Cours introductif intitulé Logiciel R de [`wikistat.fr`](http://wikistat.fr/).
 - [*Shortcut reference card*](https://cran.r-project.org/doc/contrib/Short-refcard.pdf) de Tom Short.
-- [R pour les débutants](https://cran.r-project.org/doc/contrib/Paradis-rdebuts_fr.pdf) d’Emmanuel Paradis. 
+- [R pour les débutants](https://cran.r-project.org/doc/contrib/Paradis-rdebuts_fr.pdf) d’Emmanuel Paradis.
+- De nombreux sites internet sont dédiés aux utilisateurs de R, parmi lesquels : www.r-bloggers.com (the «  R blogosphere »), https://datascienceplus.com/ (online learning resource), https://www.datacamp.com/ (online learning resource).
 
 ### 1.2 Travail personnel demandé 
 L’exercice qui vous est proposé vous permettra d’acquérir des compétences en langage R. Vous êtes invités à contacter vos enseignants (florent.bourgeois@ensiacet.fr et pascal.floquet@ensiacet.fr) pour vous aider dans la réalisation de ce travail. L’exercice porte sur la manipulation de variables aléatoires et leurs distributions statistiques, un des socles de l’analyse statistique de données.
