@@ -128,22 +128,20 @@ Cette section vous permettra d’acquérir et de mettre en œuvre 2 méthodes de
  
 ### 3.2. Travail personnel demandé
 
-Le travail attendu est un travail personnel d’autoévaluation de votre maîtrise de la régression linéaire multiple et de la régression logistique, en les appliquant à la prédiction du pic d’ozone de la ville de Rennes.
-Vous trouverez ci-après, sans caractère limitatif, une liste de sujets auxquels vous êtes invité à réfléchir en y apportant une ou plusieurs réponses basées sur les concepts étudiés dans cette section: 
+Le travail attendu est un travail personnel d’autoévaluation de votre maîtrise de la régression linéaire multiple et de la régression logistique, en les appliquant à la prédiction du pic d’ozone de la ville de Rennes. Vous pouvez également utiliser des données plus « locales », issues de http://data-atmo-occitanie.opendata.arcgis.com/datasets (données de la qualité de l’air en Occitanie) et/ou de https://data.toulouse-metropole.fr/pages/accueil/ (données publiques Toulouse Métropole, notamment données météo).
+Vous trouverez ci-après, sans caractère limitatif, une liste de sujets auxquels vous êtes invité à réfléchir en y apportant une ou plusieurs réponses basées sur les concepts étudiés dans cette section : 
 
 - Calculer les paramètres des modèles de régression (linéaire multiple et logistique) liant la variable pic d’ozone aux autres variables explicatives;
 - Calculer l’intervalle de confiance de ces paramètres;
 - Tester la significativité des paramètres;
 - Examiner la qualité des modèles de régression, en ajustement et en prédiction;
-- Quelles sont les incertitudes associées à la prédiction ?;
-- Quel est le « bon » modèle à choisir : nombre de paramètres, valeurs des paramètres,... ?;
+- Quelles sont les incertitudes associées à la prédiction ?;
+- Quel est le « bon » modèle à choisir : nombre de paramètres, valeurs des paramètres,... ?;
 - ...
 
-_____
-[#### **Corrigé de la séance du 4 octobre 2018 :**]: <>
+Vous pouvez également nous soumettre ce travail (florent.bourgeois@ensiacet.fr et pascal.floquet@ensiacet.fr), sous la forme d’un notebook R ou d’une application Shiny pour information et retour, si besoin.
 
-[Vous trouverez le fichier R utilisé en séance dans le fichier Calepins]: <>
-[Analyse et modélisation statistique avec R, https://github.com/Certificat-sciences-des-donnees-bigdata/Modulesensibilisation/blob/master/Calepins/Analyse%20et%20modelisation%20statistique%20sur%20R%20Ozone_4-10-2018.r]: <>
+
 _____
 
 ## 4 Introduction à Python
