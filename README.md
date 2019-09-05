@@ -63,13 +63,29 @@ Le langage de programmation R est un langage reconnu pour l’analyse statistiqu
 - De nombreux sites internet sont dédiés aux utilisateurs de R, parmi lesquels : www.r-bloggers.com (the «  R blogosphere »), https://datascienceplus.com/ (online learning resource), https://www.datacamp.com/ (online learning resource).
 
 ### 1.2 Travail personnel demandé 
-L’exercice qui vous est proposé vous permettra d’acquérir des compétences en langage R. Vous êtes invités à contacter vos enseignants (florent.bourgeois@ensiacet.fr et pascal.floquet@ensiacet.fr) pour vous aider dans la réalisation de ce travail. L’exercice porte sur la manipulation de variables aléatoires et leurs distributions statistiques, un des socles de l’analyse statistique de données.
+L’exercice que vous soumettrez au terme de ce module, par binôme, vous permettra d’acquérir des compétences en langage R. Vous êtes invité à contacter vos enseignants (florent.bourgeois@ensiacet.fr et pascal.floquet@ensiacet.fr) pour vous aider dans la réalisation de ce travail. L’exercice porte sur la manipulation de variables aléatoires et leurs distributions statistiques, un des socles de l’analyse statistique de données.
 
-Soit X1 et X2 deux variables aléatoires indépendantes qui suivent une loi normale. Écrivez en langage R les 6 fonctions (p, d, q, r, e et v) `bigdata`, dans un même script R, qui permettent de calculer la fonction de répartition CDF (*Cumulative Distribution Function*), la fonction densité de probabilité PDF (*Probability Density Function*), les quartiles, la génération de nombres aléatoires, la moyenne et la variance des variables 
+Soit X1 et X2 deux variables aléatoires indépendantes qui suivent une loi normale ou bien une loi uniforme, au choix. Écrivez en langage *R* les 6 fonctions (p, d, q, r, e et v)CertificatBigData, dans un même script R, qui permettent de calculer la fonction de répartition CDF (pour *Cumulative Distribution Function*), la fonction densité de probabilité PDF (pour *Probability Density Function*), les quartiles, la génération de nombres aléatoires, la moyenne et la variance des variables Y = X1+X2, Z = X1×X2 et Z = X1÷X2. Les dites fonctions produiront, selon le choix de l’utilisateur, les graphes pertinents qui permettent de visualiser les résultats attendus de ces 6 fonctions.
 
-Y = X1+X2 et Z = X1*X2. 
+**Au terme de cet exercice, vous répondrez grâce à votre code de calcul à la question suivante : quelle est la distribution statistique de la somme de 2 variables aléatoires uniformes ?** La réponse à cette question sera discutée durant la séance en présentiel associée à ce module du certificat.
 
-Les dites fonctions produiront les graphes pertinents qui permettent de visualiser les résultats de chacune des 6 fonctions.
+Le rendu de ce module est donc un code intitulé NOM1_NOM2.R, du nom des membres du binôme, avec les 6 fonctions suivantes :
+−	pCertificatBigData()
+−	dCertificatBigData()
+−	qCertificatBigData()
+−	rCertificatBigData()
+−	eCertificatBigData()
+−	vCertificatBigData()
+Chaque fonction sera richement commentée. En particulier, la signature de chaque fonction devra indiquer :
+
+−	Les noms des auteurs
+−	La date
+−	La liste des arguments d’entrée et de sortie des fonctions, avec des valeurs par défaut des arguments d’entrée si elles se justifient.
+−	Un ou plusieurs exemples d’appel
+−	Le lien, optionnel, vers l’application Shiny associée (voir ci-après).
+
+Pour celles et ceux qui veulent s’amuser, il vous est proposé en option au travail demandé de produire une version accessible et interactive de votre code depuis un navigateur web, via un ordinateur ou un téléphone. Pour ce faire, vous utiliserez le package « shiny » (voir https://www.r-bloggers.com/building-shiny-apps-an-interactive-tutorial/). Un exemple très basique de ce que vous avez à faire se trouve à l’adresse suivante https://flbourgeois.shinyapps.io/Exo_Introduction_R/. Notez qu’il s’agit d’un exemple illustratif, très basique, qui ne traite d’ailleurs que le cas de 2 variables normales. Vous pouvez faire beaucoup mieux !
+
 
 ## 2 Éléments d’analyse statistique de données
 *A faire sur la période du 12/09 au 2/10*
