@@ -70,19 +70,20 @@ Soit X1 et X2 deux variables aléatoires indépendantes qui suivent une loi norm
 **Au terme de cet exercice, vous répondrez grâce à votre code de calcul à la question suivante : quelle est la distribution statistique de la somme de 2 variables aléatoires uniformes ?** La réponse à cette question sera discutée durant la séance en présentiel associée à ce module du certificat.
 
 Le rendu de ce module est donc un code intitulé NOM1_NOM2.R, du nom des membres du binôme, avec les 6 fonctions suivantes :
-−	pCertificatBigData()
-−	dCertificatBigData()
-−	qCertificatBigData()
-−	rCertificatBigData()
-−	eCertificatBigData()
-−	vCertificatBigData()
+- pCertificatBigData()
+- dCertificatBigData()
+- qCertificatBigData()
+- rCertificatBigData()
+- eCertificatBigData()
+- vCertificatBigData()
+
 Chaque fonction sera richement commentée. En particulier, la signature de chaque fonction devra indiquer :
 
-−	Les noms des auteurs
-−	La date
-−	La liste des arguments d’entrée et de sortie des fonctions, avec des valeurs par défaut des arguments d’entrée si elles se justifient.
-−	Un ou plusieurs exemples d’appel
-−	Le lien, optionnel, vers l’application Shiny associée (voir ci-après).
+- Les noms des auteurs
+- La date
+- La liste des arguments d’entrée et de sortie des fonctions, avec des valeurs par défaut des arguments d’entrée si elles se justifient.
+- Un ou plusieurs exemples d’appel
+- Le lien, optionnel, vers l’application Shiny associée (voir ci-après).
 
 Pour celles et ceux qui veulent s’amuser, il vous est proposé en option au travail demandé de produire une version accessible et interactive de votre code depuis un navigateur web, via un ordinateur ou un téléphone. Pour ce faire, vous utiliserez le package « shiny » (voir https://www.r-bloggers.com/building-shiny-apps-an-interactive-tutorial/). Un exemple très basique de ce que vous avez à faire se trouve à l’adresse suivante https://flbourgeois.shinyapps.io/Exo_Introduction_R/. Notez qu’il s’agit d’un exemple illustratif, très basique, qui ne traite d’ailleurs que le cas de 2 variables normales. Vous pouvez faire beaucoup mieux !
 
