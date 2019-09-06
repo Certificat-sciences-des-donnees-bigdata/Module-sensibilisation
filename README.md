@@ -246,4 +246,4 @@ Pour conclure ce premier module, vous devez réaliser un projet. Tous les détai
 
 [- La liste des binômes est disponible dans le fichier Liste binôme, https://github.com/Certificat-sciences-des-donnees-bigdata/Module-sensibilisation/blob/master/Documents/liste_binomes.pdf]: <>
 
-Bon travail à tous !
+Bon travail à tous ! 
