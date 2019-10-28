@@ -219,7 +219,7 @@ D'autres exemples sont disponibles dans le dépôt [`github-wikistat-Apprentissa
 ## 8 Optimisation
 
 *Le cours est disponible dans le fichier Documents*
-[Optimisation](https://github.com/Certificat-sciences-des-donnees-bigdata/Module-sensibilisation/blob/master/Documents/Cours%20optimisation%20301018.pdf)
+[Optimisation](https://github.com/Certificat-sciences-des-donnees-bigdata/Module-sensibilisation/blob/master/Documents/cours_Optimisation_29102019.pdf)
 
 *Le TP est disponible dans le fichier Calepins - c'est un jupyter notebook*
 [TP Optimisation](https://github.com/Certificat-sciences-des-donnees-bigdata/Module-sensibilisation/blob/master/Calepins/tp1_certificat_etudiant.ipynb)
