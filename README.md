@@ -215,6 +215,7 @@ D'autres exemples sont disponibles dans le dépôt [`github-wikistat-Apprentissa
 [Infrastructures](http://sd-127206.dedibox.fr/hagimont/certificat/certif-bigdata-py.pdf).
 
 Le TP est disponible [ici](http://sd-127206.dedibox.fr/hagimont/certificat/). 
+
 <ins> Séance en présentiel le mardi 29 octobre 2019. </ins>
 
 ## 8 Optimisation
