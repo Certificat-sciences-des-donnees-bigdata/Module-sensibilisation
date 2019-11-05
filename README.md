@@ -237,7 +237,7 @@ Pour conclure ce premier module, vous devez réaliser un projet en binôme. Le p
 - fichier *[Projet-Optimisation.py](https://github.com/Certificat-sciences-des-donnees-bigdata/Module-sensibilisation/blob/master/Documents/Projet-Optimisation.py)*
 - fichier de données *[ratings.dat](https://github.com/Certificat-sciences-des-donnees-bigdata/Module-sensibilisation/blob/master/Documents/data.tar)*
 
-La partie infrastructure est téléchargeable [ici](sd-127206.dedibox.fr/hagimont/resources-N7/certificat/sujet.tgz). 
+La partie infrastructure est téléchargeable ici : sd-127206.dedibox.fr/hagimont/resources-N7/certificat/sujet.tgz. 
 
 **Lisez attentivement les conditions de travail indiquées dans le sujet.**
 
