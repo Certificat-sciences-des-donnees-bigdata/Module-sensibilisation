@@ -230,22 +230,16 @@ Le TP est disponible [ici](http://sd-127206.dedibox.fr/hagimont/certificat/).
 
 ## 9 Projet de fin de module
 
-Pour conclure ce premier module, vous devez réaliser un projet. Tous les détails seront donnés plus tard.
+Pour conclure ce premier module, vous devez réaliser un projet en binôme. Le projet est à rendre au plus tard le **31 janvier 2020 à midi**. La composition des binômes doit être envoyée au plus tard le **15 novembre à midi**. 
 
-[en binôme. Le projet est à rendre au plus tard le **31 janvier à midi**.]: <>
+*Le sujet est disponible dans le fichier [Documents](https://github.com/Certificat-sciences-des-donnees-bigdata/Module-sensibilisation/blob/master/Documents/projet-Optimisation-spark.pdf)*. Vous aurez également besoin de fichiers suivants:
+- notebook jupyter *[Projet-Optimisation.ipynb](https://github.com/Certificat-sciences-des-donnees-bigdata/Module-sensibilisation/blob/master/Documents/Projet-Optimisation.ipynb)*
+- fchier *[Projet-Optimisation.py](https://github.com/Certificat-sciences-des-donnees-bigdata/Module-sensibilisation/blob/master/Documents/Projet-Optimisation.py)*
+- fchier de données *[ratings.dat](https://github.com/Certificat-sciences-des-donnees-bigdata/Module-sensibilisation/blob/master/Documents/data.tar)*
+La partie infrastructure est téléchargeable [ici](sd-127206.dedibox.fr/hagimont/resources-N7/certificat/sujet.tgz). 
 
-[La composition des binômes doit être envoyée par email aux 2 enseignants mentionnés dans le sujet, au plus tard le **21 novembre à midi**. ]: <>
+**Lisez attentivement les conditions de travail indiquées dans le sujet.**
 
-[**Lisez attentivement les conditions de travail indiquées dans le sujet.**]: <>
-
-[**Toutes les questions concernant le projet doivent être posées via le forum google groupe** mis en place au début du certificat.]: <>
-
-[- *Le sujet est disponible dans le fichier Documents.* Sujet Projet, https://github.com/Certificat-sciences-des-donnees-bigdata/Module-sensibilisation/blob/master/Documents/project-subject.pdf]: <>
-
-[- *Le jupyter notebook associé est dans le fichier Calepins.* Projet optimisation, https://github.com/Certificat-sciences-des-donnees-bigdata/Module-sensibilisation/blob/master/Calepins/Projet-Optimisation.ipynb]: <>
-
-[- *Le fichier ratings.dat est dans le fichier data du même dossier.* Il faut mettre ce fichier dans un dossier sur votre ordinateur.]: <>
-
-[- La liste des binômes est disponible dans le fichier Liste binôme, https://github.com/Certificat-sciences-des-donnees-bigdata/Module-sensibilisation/blob/master/Documents/liste_binomes.pdf]: <>
+**Toutes les questions concernant le projet doivent être posées sur Slack** 
 
 Bon travail à tous ! 
