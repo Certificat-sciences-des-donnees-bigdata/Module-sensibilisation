@@ -235,7 +235,7 @@ Pour conclure ce premier module, vous devez réaliser un projet en binôme. Le p
 *Le sujet est disponible dans le fichier [Documents](https://github.com/Certificat-sciences-des-donnees-bigdata/Module-sensibilisation/blob/master/Documents/projet-Optimisation-spark.pdf)*. Vous aurez également besoin de fichiers suivants:
 - notebook jupyter *[Projet-Optimisation.ipynb](https://github.com/Certificat-sciences-des-donnees-bigdata/Module-sensibilisation/blob/master/Documents/Projet-Optimisation.ipynb)*
 - fichier *[Projet-Optimisation.py](https://github.com/Certificat-sciences-des-donnees-bigdata/Module-sensibilisation/blob/master/Documents/Projet-Optimisation.py)*
-- fichier de données *[ratings.dat](https://github.com/Certificat-sciences-des-donnees-bigdata/Module-sensibilisation/blob/master/Documents/data.tar)*
+- fichier de données *[ratings.dat](https://github.com/Certificat-sciences-des-donnees-bigdata/Module-sensibilisation/blob/master/Documents/._ratings.dat)*
 
 La partie infrastructure est téléchargeable ici : sd-127206.dedibox.fr/hagimont/resources-N7/certificat/sujet.tgz. 
 
