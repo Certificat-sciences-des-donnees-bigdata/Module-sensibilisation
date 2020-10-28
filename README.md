@@ -222,7 +222,7 @@ D'autres exemples sont disponibles dans le dépôt [`github-wikistat-Apprentissa
 
 ## 8 Techniques de virtualisation et containerisation, les plateformes cloud
 
-[Cours](https://github.com/Certificat-sciences-des-donnees-bigdata/Module-sensibilisation/blob/master/Documents/certificat%20Big%20Data-CM%20virtualisation-containerisation-cloud%2028oct2020.pdf) et [séance de TP le 28 octobre](https://github.com/Certificat-sciences-des-donnees-bigdata/Module-sensibilisation/blob/master/Documents/certificat%20Big%20Dat-TP%20AWS%2028oct2020.pdf). Aucun travail personnel est demandé. 
+[Cours](http://sd-127206.dedibox.fr/hagimont/resources-N7/certificat/certif-cloud.pdf) et [séance de TP le 28 octobre](http://sd-127206.dedibox.fr/hagimont/resources-N7/certificat/certificat.html). Aucun travail personnel est demandé. 
 
 <ins> Séance en ligne le mercredi 28 octobre 2020, matin. </ins>
 
