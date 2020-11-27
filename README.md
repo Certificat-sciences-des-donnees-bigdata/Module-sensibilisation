@@ -227,3 +227,16 @@ D'autres exemples sont disponibles dans le dépôt [`github-wikistat-Apprentissa
 <ins> Séance en ligne le mercredi 28 octobre 2020, matin. </ins>
 
 ## 9 Projet de fin de module 
+
+L’objectif de ce projet est de concevoir une application Big Data et de la déployer dans une infrastructure de calcul. Le projet se compose de **deux parties** :
+- Pour la partie data : Il s'agit de développer en Spark une méthode de gradient, dans le but de résoudre un problème de filtrage collaboratif, et de la comparer avec une méthode de la librairie MLIB. (Le sujet & les données ainsi que les explications sont dans le fichier [ici](https://github.com/Certificat-sciences-des-donnees-bigdata/Module-sensibilisation/blob/master/Documents/projet_partie_data.zip)).
+- Pour la partie infra : Il s’agit d’installer et utiliser Spark/HDFS en cluster et d’évaluer sa scalabilité. (Le sujet + les explications pour les deux options sont disponibles sur le site de Daniel HAGIMONT: [http://sd-127206.dedibox.fr/hagimont/resources-N7/certificat/certificat.html](http://sd-127206.dedibox.fr/hagimont/resources-N7/certificat/certificat.html))
+**Pour la partie infra vous avez 2 options :**
+- Option Docker (ATTENTION, cette option est uniquement possible si vous utilisez Linux (une clé usb bootable, dual boot, etc.)) 
+- Option AWS/autre plateforme cloud
+
+Vous aurez donc **deux notes** pour ce projet, une par partie : A – Excellent ; B – Bien ; C – Moyen ; D – Insuffisant ; E – Aucun rendu.
+
+Pour pouvoir soumettre le projet il faut [avoir choisi un groupe sur moodle](https://foad.univ-toulouse.fr/mod/choicegroup/view.php?id=1081).
+
+**ATTENTION : les deux parties sont à soumettre sur moodle avant le 31 janvier 2021**.
