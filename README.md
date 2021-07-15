@@ -3,11 +3,11 @@ Retrouvez ici les contenus à étudier en autonomie du module *sensibilisation*.
 _____
 ## Planning de travail
 
-- 10 septembre 2020 : réunion de rentrée
-- Du 11 au 30 septembre 2020 : faire les paragraphes 1, 2 et 3.
-- Séance en présentiel le 1 octobre 2020 après-midi.
-- Du 2 octobre au 25 octobre 2020 : faire les paragraphes 4, 5 et 6.
-- Séance en présentiel le lundi 26 octobre (toute la journée), à distance mardi 27 octobre 2020 (matin) et mercredi 28 octobre (matin).
+- 9 septembre 2021 : réunion de rentrée
+- Du 10 au 29 septembre 2021 : faire les paragraphes 1, 2 et 3.
+- Séance en présentiel le 30 septembre 2021 après-midi.
+- Du 1 octobre au 24 octobre 2020 : faire les paragraphes 4, 5 et 6.
+- Séances en présentiel les mardi 26 octobre (toute la journée) mercredi 27 octobre 2020 (9h-13h).
 ______
 
 Les ressources pédagogiques offrent plusieurs niveaux de lecture ou d'utilisation afin d'être au mieux adaptées à un public hétérogène. Plus précisément il faut voir ce certificat comme une introduction à la *Science des Données* qui propose des pistes et références pour des approfondissements ultérieurs.
@@ -52,7 +52,7 @@ L'installation de certains paquets requis pour exécuter les codes peut causer d
 Les sections 1, 2 et 3 du module de sensibilisation portent sur des connaissances de base en analyse statistique de données, que d’aucuns auront sans doute abordées durant leurs études. Elles se clôtureront par une séance d’une demi-journée en présentiel, durant laquelle les notions acquises seront revisitées sur la base d’un jeu de questions-réponses entre les élèves de la classe et les enseignants, en s’appuyant sur les travaux personnels proposés dans ces sections.
 
 ## 1 Introduction à R pour le calcul statistique
-*A faire sur la période du 11/09 au 30/09*
+*A faire sur la période du 10/09 au 29/09*
 
 Le langage de programmation R est un langage reconnu pour l’analyse statistique de données, massives ou non.  L’acquisition de compétences dans l’utilisation de R est aujourd’hui un atout professionnel pour ceux qui le maîtrisent.
 
@@ -90,7 +90,7 @@ Pour celles et ceux qui veulent s’amuser, il vous est proposé en option au tr
 **Le projet doit être soumis via [Moodle](https://foad-uftmip.univ-toulouse.fr/)**
 
 ## 2 Éléments d’analyse statistique de données
-*A faire sur la période du 11/09 au 30/09*
+*A faire sur la période du 10/09 au 29/09*
 
 Cette section vous permettra d’acquérir les notions élémentaires de l’analyse statistique de données. Elles sont la base des méthodes d’inférence et de modélisation mises en œuvre dans la suite.
 
@@ -117,7 +117,7 @@ Toutes ces études feront l’objet d’une restitution en groupe lors de la sé
 
 
 ## 3 Modélisation statistique
-*A faire sur la période du 11/09 au 30/09*
+*A faire sur la période du 10/09 au 29/09*
 
 Cette section vous permettra d’acquérir et de mettre en œuvre 2 méthodes de régression couramment utilisées dans l’analyse de données massives : la régression linéaire multiple et la régression logistique.
 
@@ -146,7 +146,7 @@ Vous pouvez également nous soumettre ce travail (florent.bourgeois@ensiacet.fr 
 _____
 
 ## 4 Introduction à Python
-*A faire sur la période du 2/10 au 25/10*
+*A faire sur la période du 1/10 au 24/10*
 
 *Python* et ses librairies produisent moins de résultat utiles que R à l'interprétation statistique mais fournissent des codes généralement plus efficaces pour aborder le traitement de données massives.
 
@@ -156,7 +156,7 @@ Une connaissance experte de Python n'est pas indispensbale au suivi de ce module
 
 
 ## 5 Exploration Multidimensionnelle
-*A faire sur la période du 2/10 au 25/10*
+*A faire sur la période du 1/10 au 24/10*
 
 Le choix a été fait de mettre plus particulièrement l'accent sur des exemples d'application issus du monde industriel (données physiques quantitatives) plutôt que des applications (données qualitatives) de type sondage,  marketing ou fouille de textes... Comme écrit plus haut, l'introduction à d'autres méthodes et d'autres exemples d'application sont à rechercher dans les ressources des autres niveaux (2 et 4) d'approfondissement.
 
@@ -179,7 +179,7 @@ Réaliser ces tutoriels en autonomie:
 **Travail personnel demandé**: Préparer les réponses aux questions **Q** qui jalonnent chaque tutoriel.
 
 
-### 5.3 Présentiel le lundi 26 octobre 2020 matin
+### 5.3 Présentiel le lundi 25 octobre 2021
 
 - Revue des points délicats du cours et des questions soulevées dans les tutoriels
 
@@ -188,7 +188,7 @@ Réaliser ces tutoriels en autonomie:
 D'autres exemples sont disponibles dans le dépôt [`github - wikistat - Exploration`](https://github.com/wikistat/Exploration).
 
 ## 6 Principes de l'Apprentissage Statistique
-*A faire sur la période du 2/10 au 25/10*
+*A faire sur la période du 1/10 au 24/10*
 
 ### 6.1 Document de base à consulter en autonomie
 
@@ -201,7 +201,7 @@ D'autres exemples sont disponibles dans le dépôt [`github - wikistat - Explora
 
 **Travail personnel demandé**: Préparer les réponses aux questions **Q** qui jalonnent chaque tutoriel.
 
-### 6.3 Présentiel le lundi 26 octobre 2020 après midi
+### 6.3 Présentiel le lundi 25 octobre 2021 après midi
 
 - Revue des points délicats du cours et des questions soulevées dans les tutoriels
 
@@ -218,13 +218,13 @@ D'autres exemples sont disponibles dans le dépôt [`github-wikistat-Apprentissa
 *Le TP est disponible dans le fichier Calepins - c'est un jupyter notebook*
 [TP Optimisation](https://github.com/Certificat-sciences-des-donnees-bigdata/Module-sensibilisation/blob/master/Calepins/tp1_certificat_etudiant.ipynb)
 
-<ins> Séance en ligne le mardi 27 octobre 2020, matin. </ins> 
+<ins> Séance en présentiel le mardi 26 octobre 2021. </ins> 
 
 ## 8 Techniques de virtualisation et containerisation, les plateformes cloud
 
-[Cours](http://sd-127206.dedibox.fr/hagimont/resources-N7/certificat/certif-cloud.pdf) et [séance de TP le 28 octobre](http://sd-127206.dedibox.fr/hagimont/resources-N7/certificat/certificat.html). Aucun travail personnel est demandé. 
+[Cours](http://sd-127206.dedibox.fr/hagimont/resources-N7/certificat/certif-cloud.pdf) et [séance de TP le 27 octobre](http://sd-127206.dedibox.fr/hagimont/resources-N7/certificat/certificat.html). Aucun travail personnel est demandé. 
 
-<ins> Séance en ligne le mercredi 28 octobre 2020, matin. </ins>
+<ins> Séance en présentiel le mercredi 27 octobre 2020, matin. </ins>
 
 ## 9 Projet de fin de module 
 
